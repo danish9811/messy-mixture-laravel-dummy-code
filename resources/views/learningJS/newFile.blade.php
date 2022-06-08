@@ -12,6 +12,8 @@
 </head>
 <body>
 
+
+<!-- demo code test -->
 <h2>we are now learning javaScript</h2>
 <p>we are learning javascript from w3school, and practicing its tiny code</p>
 
