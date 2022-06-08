@@ -17,9 +17,3 @@ yarn-error.log
 .idea
 .env
 volumes/
-
-# the folder for storing metadata for the project and packages
-/info
-
-# the demo and quick info
-info.txt

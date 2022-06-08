@@ -5,3 +5,9 @@ create
 make 
 then build
 then publish
+
+
+
+// write this line to store the git credentials and git will never ask you the username, password or email
+git config --global credential.helper store
+

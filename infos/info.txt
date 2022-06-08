@@ -1,0 +1,102 @@
+one to many relation between currency and currecy_rates
+many to many relation between country and timezones
+one to one relatin between country and currency
+create two more models of states and cities
+country has many states
+state belongs to country
+state has many cities
+city belongs to state
+
+=========== NOTE ===========================================================
+successfully learnt how to seed the data by reading from jsona and csv files
+now make relations, work with actual models and seed the data
+============================================================================
+
+note : always create relation with laravel generated id which is "$table->id();"
+
+create relationships by using laravel generated autoincremeting unique primary key 'id'
+country has particular id, which is 'country_id', and pakistan has '167' and another '586'
+
+read json and csv files in seeders, create different seeder for their purpose,
+populate data into the specific tables, currency rate would come from currency_layer api,
+'currency_layer' has 250 requests per month
+
+create a command to insert record into the currency_rate table
+create another command which removes old/historical data (given the int days or months) from table
+map flags with country, read another json file, publish the assets "flags" into the "public" folder
+inside the "packages/../../src/"
+
+misc => keys (settings)
+        checks on (settings)
+        folder structure (see "acl-otif-package")
+        service providers => register
+        extra settings => rates_save_days (by default NULL)
+
+edit command to remove historical data at the end
+
+// create a text file where we store the queries needed to migrate all tables
+>= php artisan migrate --pretent > test.txt
+
+--------------------------------------------------------------------------------
+// "live" - get the most recent exchange rate data
+https://api.currencylayer.com/live
+
+// "historical" - get historical rates for a specific day
+https://api.currencylayer.com/historical?date=YYYY-MM-DD
+
+// "convert" - convert one currency to another
+https://api.currencylayer.com/convert?from=EUR&to=GBP&amount=100
+
+// "timeframe" - request exchange rates for a specific period of time
+https://api.currencylayer.com/timeframe?start_date=2015-01-01&end_date=2015-05-01
+
+// "change" - request any currency's change parameters (margin, percentage)
+https://api.currencylayer.com/change?currencies=USD,EUR
+------------------------------------------------------------------------------------
+
+I had to stop all the services,
+>> sudo /etc/init.d/apache2 stop
+>> sudo /etc/init.d/mysql stop
+>> sudo /etc/init.d/proftpd stop
+
+Then I restarted the server
+>> sudo /opt/lampp/lampp restart
+
+-> antoher way of writing seeders into the package
+https://laravel.io/forum/02-26-2016-seeders-within-a-package
+
+-> github key for pushing onto the git
+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
+
+https://github.com/danish9811/package-currency-layer.git
+git clone https://[MY_USER_NAME]:[GITHUB_PERSONAL_ACCESS_TOKEN]@github.com/davidsonlima/davidson-myrepo.git without square brackets
+git clone https://danish9811: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@github.com/danish9811/package-currency-layer.git without square brackets
+git clone https://danish9811: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@github.com/danish9811/package-currency-layer.git
+
+
+=========================================================================================
+token created for pushing the package into otifsolitons/laravel-currency-layer remote git
+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
+=========================================================================================
+
+
+changings : change public_path() problem
+changing : flags
+changing : make job and queues that run the commands, whenever the data exceeds than the 5 days, it will get deleted automaically
+    otherwise, i have created a shedule on command that runs the command every day, if the data is there
+    more than 5 days, and days are defiend in Setting::set("rates_save_days", 5), and Setting::get('rates_get_days');
+
+
+the license in the package/otifsolutions/currency-layer/LICENCE actually has to be published, the latest one
+
+
+> composer show -i
+> composer show --all
+> composer require otifsolutions/currency-layer
+> composer validate
+> compsoer show --install
+> composer remove vendor/package-name
+> composer require otifsolutions/currency-layer
+> 
+
+
