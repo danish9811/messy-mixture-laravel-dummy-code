@@ -11,3 +11,6 @@ then publish
 // write this line to store the git credentials and git will never ask you the username, password or email
 git config --global credential.helper store
 
+
+// how to store the github credentials for not being asked again and again
+https://www.freecodecamp.org/news/how-to-fix-git-always-asking-for-user-credentials/
