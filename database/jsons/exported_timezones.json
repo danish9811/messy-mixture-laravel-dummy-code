@@ -1,0 +1,4232 @@
+[
+  {
+    "id": "1",
+    "name": "Asia - Kabul",
+    "gmt_offset": "16200",
+    "gmt_offset_name": "UTC+04:30",
+    "abbreviation": "AFT",
+    "tz_name": "Afghanistan Time",
+    "created_at": "2022-05-16 11:06:37",
+    "updated_at": "2022-05-16 11:06:37"
+  },
+  {
+    "id": "2",
+    "name": "Europe - Mariehamn",
+    "gmt_offset": "7200",
+    "gmt_offset_name": "UTC+02:00",
+    "abbreviation": "EET",
+    "tz_name": "Eastern European Time",
+    "created_at": "2022-05-16 11:06:38",
+    "updated_at": "2022-05-16 11:06:38"
+  },
+  {
+    "id": "3",
+    "name": "Europe - Tirane",
+    "gmt_offset": "3600",
+    "gmt_offset_name": "UTC+01:00",
+    "abbreviation": "CET",
+    "tz_name": "Central European Time",
+    "created_at": "2022-05-16 11:06:38",
+    "updated_at": "2022-05-16 11:06:38"
+  },
+  {
+    "id": "4",
+    "name": "Africa - Algiers",
+    "gmt_offset": "3600",
+    "gmt_offset_name": "UTC+01:00",
+    "abbreviation": "CET",
+    "tz_name": "Central European Time",
+    "created_at": "2022-05-16 11:06:38",
+    "updated_at": "2022-05-16 11:06:38"
+  },
+  {
+    "id": "5",
+    "name": "Pacific - Pago_Pago",
+    "gmt_offset": "-39600",
+    "gmt_offset_name": "UTC-11:00",
+    "abbreviation": "SST",
+    "tz_name": "Samoa Standard Time",
+    "created_at": "2022-05-16 11:06:38",
+    "updated_at": "2022-05-16 11:06:38"
+  },
+  {
+    "id": "6",
+    "name": "Europe - Andorra",
+    "gmt_offset": "3600",
+    "gmt_offset_name": "UTC+01:00",
+    "abbreviation": "CET",
+    "tz_name": "Central European Time",
+    "created_at": "2022-05-16 11:06:38",
+    "updated_at": "2022-05-16 11:06:38"
+  },
+  {
+    "id": "7",
+    "name": "Africa - Luanda",
+    "gmt_offset": "3600",
+    "gmt_offset_name": "UTC+01:00",
+    "abbreviation": "WAT",
+    "tz_name": "West Africa Time",
+    "created_at": "2022-05-16 11:06:38",
+    "updated_at": "2022-05-16 11:06:38"
+  },
+  {
+    "id": "8",
+    "name": "America - Anguilla",
+    "gmt_offset": "-14400",
+    "gmt_offset_name": "UTC-04:00",
+    "abbreviation": "AST",
+    "tz_name": "Atlantic Standard Time",
+    "created_at": "2022-05-16 11:06:38",
+    "updated_at": "2022-05-16 11:06:38"
+  },
+  {
+    "id": "9",
+    "name": "Antarctica - Casey",
+    "gmt_offset": "39600",
+    "gmt_offset_name": "UTC+11:00",
+    "abbreviation": "AWST",
+    "tz_name": "Australian Western Standard Time",
+    "created_at": "2022-05-16 11:06:38",
+    "updated_at": "2022-05-16 11:06:38"
+  },
+  {
+    "id": "10",
+    "name": "Antarctica - Davis",
+    "gmt_offset": "25200",
+    "gmt_offset_name": "UTC+07:00",
+    "abbreviation": "DAVT",
+    "tz_name": "Davis Time",
+    "created_at": "2022-05-16 11:06:38",
+    "updated_at": "2022-05-16 11:06:38"
+  },
+  {
+    "id": "11",
+    "name": "Antarctica - DumontDUrville",
+    "gmt_offset": "36000",
+    "gmt_offset_name": "UTC+10:00",
+    "abbreviation": "DDUT",
+    "tz_name": "Dumont d Urville Time",
+    "created_at": "2022-05-16 11:06:38",
+    "updated_at": "2022-05-16 11:06:38"
+  },
+  {
+    "id": "12",
+    "name": "Antarctica - Mawson",
+    "gmt_offset": "18000",
+    "gmt_offset_name": "UTC+05:00",
+    "abbreviation": "MAWT",
+    "tz_name": "Mawson Station Time",
+    "created_at": "2022-05-16 11:06:38",
+    "updated_at": "2022-05-16 11:06:38"
+  },
+  {
+    "id": "13",
+    "name": "Antarctica - McMurdo",
+    "gmt_offset": "46800",
+    "gmt_offset_name": "UTC+13:00",
+    "abbreviation": "NZDT",
+    "tz_name": "New Zealand Daylight Time",
+    "created_at": "2022-05-16 11:06:38",
+    "updated_at": "2022-05-16 11:06:38"
+  },
+  {
+    "id": "14",
+    "name": "Antarctica - Palmer",
+    "gmt_offset": "-10800",
+    "gmt_offset_name": "UTC-03:00",
+    "abbreviation": "CLST",
+    "tz_name": "Chile Summer Time",
+    "created_at": "2022-05-16 11:06:38",
+    "updated_at": "2022-05-16 11:06:38"
+  },
+  {
+    "id": "15",
+    "name": "Antarctica - Rothera",
+    "gmt_offset": "-10800",
+    "gmt_offset_name": "UTC-03:00",
+    "abbreviation": "ROTT",
+    "tz_name": "Rothera Research Station Time",
+    "created_at": "2022-05-16 11:06:38",
+    "updated_at": "2022-05-16 11:06:38"
+  },
+  {
+    "id": "16",
+    "name": "Antarctica - Syowa",
+    "gmt_offset": "10800",
+    "gmt_offset_name": "UTC+03:00",
+    "abbreviation": "SYOT",
+    "tz_name": "Showa Station Time",
+    "created_at": "2022-05-16 11:06:38",
+    "updated_at": "2022-05-16 11:06:38"
+  },
+  {
+    "id": "17",
+    "name": "Antarctica - Troll",
+    "gmt_offset": "0",
+    "gmt_offset_name": "UTC±00",
+    "abbreviation": "GMT",
+    "tz_name": "Greenwich Mean Time",
+    "created_at": "2022-05-16 11:06:38",
+    "updated_at": "2022-05-16 11:06:38"
+  },
+  {
+    "id": "18",
+    "name": "Antarctica - Vostok",
+    "gmt_offset": "21600",
+    "gmt_offset_name": "UTC+06:00",
+    "abbreviation": "VOST",
+    "tz_name": "Vostok Station Time",
+    "created_at": "2022-05-16 11:06:38",
+    "updated_at": "2022-05-16 11:06:38"
+  },
+  {
+    "id": "19",
+    "name": "America - Antigua",
+    "gmt_offset": "-14400",
+    "gmt_offset_name": "UTC-04:00",
+    "abbreviation": "AST",
+    "tz_name": "Atlantic Standard Time",
+    "created_at": "2022-05-16 11:06:38",
+    "updated_at": "2022-05-16 11:06:38"
+  },
+  {
+    "id": "20",
+    "name": "America - Argentina - Buenos_Aires",
+    "gmt_offset": "-10800",
+    "gmt_offset_name": "UTC-03:00",
+    "abbreviation": "ART",
+    "tz_name": "Argentina Time",
+    "created_at": "2022-05-16 11:06:38",
+    "updated_at": "2022-05-16 11:06:38"
+  },
+  {
+    "id": "21",
+    "name": "America - Argentina - Catamarca",
+    "gmt_offset": "-10800",
+    "gmt_offset_name": "UTC-03:00",
+    "abbreviation": "ART",
+    "tz_name": "Argentina Time",
+    "created_at": "2022-05-16 11:06:38",
+    "updated_at": "2022-05-16 11:06:38"
+  },
+  {
+    "id": "22",
+    "name": "America - Argentina - Cordoba",
+    "gmt_offset": "-10800",
+    "gmt_offset_name": "UTC-03:00",
+    "abbreviation": "ART",
+    "tz_name": "Argentina Time",
+    "created_at": "2022-05-16 11:06:38",
+    "updated_at": "2022-05-16 11:06:38"
+  },
+  {
+    "id": "23",
+    "name": "America - Argentina - Jujuy",
+    "gmt_offset": "-10800",
+    "gmt_offset_name": "UTC-03:00",
+    "abbreviation": "ART",
+    "tz_name": "Argentina Time",
+    "created_at": "2022-05-16 11:06:38",
+    "updated_at": "2022-05-16 11:06:38"
+  },
+  {
+    "id": "24",
+    "name": "America - Argentina - La_Rioja",
+    "gmt_offset": "-10800",
+    "gmt_offset_name": "UTC-03:00",
+    "abbreviation": "ART",
+    "tz_name": "Argentina Time",
+    "created_at": "2022-05-16 11:06:38",
+    "updated_at": "2022-05-16 11:06:38"
+  },
+  {
+    "id": "25",
+    "name": "America - Argentina - Mendoza",
+    "gmt_offset": "-10800",
+    "gmt_offset_name": "UTC-03:00",
+    "abbreviation": "ART",
+    "tz_name": "Argentina Time",
+    "created_at": "2022-05-16 11:06:39",
+    "updated_at": "2022-05-16 11:06:39"
+  },
+  {
+    "id": "26",
+    "name": "America - Argentina - Rio_Gallegos",
+    "gmt_offset": "-10800",
+    "gmt_offset_name": "UTC-03:00",
+    "abbreviation": "ART",
+    "tz_name": "Argentina Time",
+    "created_at": "2022-05-16 11:06:39",
+    "updated_at": "2022-05-16 11:06:39"
+  },
+  {
+    "id": "27",
+    "name": "America - Argentina - Salta",
+    "gmt_offset": "-10800",
+    "gmt_offset_name": "UTC-03:00",
+    "abbreviation": "ART",
+    "tz_name": "Argentina Time",
+    "created_at": "2022-05-16 11:06:39",
+    "updated_at": "2022-05-16 11:06:39"
+  },
+  {
+    "id": "28",
+    "name": "America - Argentina - San_Juan",
+    "gmt_offset": "-10800",
+    "gmt_offset_name": "UTC-03:00",
+    "abbreviation": "ART",
+    "tz_name": "Argentina Time",
+    "created_at": "2022-05-16 11:06:39",
+    "updated_at": "2022-05-16 11:06:39"
+  },
+  {
+    "id": "29",
+    "name": "America - Argentina - San_Luis",
+    "gmt_offset": "-10800",
+    "gmt_offset_name": "UTC-03:00",
+    "abbreviation": "ART",
+    "tz_name": "Argentina Time",
+    "created_at": "2022-05-16 11:06:39",
+    "updated_at": "2022-05-16 11:06:39"
+  },
+  {
+    "id": "30",
+    "name": "America - Argentina - Tucuman",
+    "gmt_offset": "-10800",
+    "gmt_offset_name": "UTC-03:00",
+    "abbreviation": "ART",
+    "tz_name": "Argentina Time",
+    "created_at": "2022-05-16 11:06:39",
+    "updated_at": "2022-05-16 11:06:39"
+  },
+  {
+    "id": "31",
+    "name": "America - Argentina - Ushuaia",
+    "gmt_offset": "-10800",
+    "gmt_offset_name": "UTC-03:00",
+    "abbreviation": "ART",
+    "tz_name": "Argentina Time",
+    "created_at": "2022-05-16 11:06:39",
+    "updated_at": "2022-05-16 11:06:39"
+  },
+  {
+    "id": "32",
+    "name": "Asia - Yerevan",
+    "gmt_offset": "14400",
+    "gmt_offset_name": "UTC+04:00",
+    "abbreviation": "AMT",
+    "tz_name": "Armenia Time",
+    "created_at": "2022-05-16 11:06:39",
+    "updated_at": "2022-05-16 11:06:39"
+  },
+  {
+    "id": "33",
+    "name": "America - Aruba",
+    "gmt_offset": "-14400",
+    "gmt_offset_name": "UTC-04:00",
+    "abbreviation": "AST",
+    "tz_name": "Atlantic Standard Time",
+    "created_at": "2022-05-16 11:06:39",
+    "updated_at": "2022-05-16 11:06:39"
+  },
+  {
+    "id": "34",
+    "name": "Antarctica - Macquarie",
+    "gmt_offset": "39600",
+    "gmt_offset_name": "UTC+11:00",
+    "abbreviation": "MIST",
+    "tz_name": "Macquarie Island Station Time",
+    "created_at": "2022-05-16 11:06:39",
+    "updated_at": "2022-05-16 11:06:39"
+  },
+  {
+    "id": "35",
+    "name": "Australia - Adelaide",
+    "gmt_offset": "37800",
+    "gmt_offset_name": "UTC+10:30",
+    "abbreviation": "ACDT",
+    "tz_name": "Australian Central Daylight Saving Time",
+    "created_at": "2022-05-16 11:06:39",
+    "updated_at": "2022-05-16 11:06:39"
+  },
+  {
+    "id": "36",
+    "name": "Australia - Brisbane",
+    "gmt_offset": "36000",
+    "gmt_offset_name": "UTC+10:00",
+    "abbreviation": "AEST",
+    "tz_name": "Australian Eastern Standard Time",
+    "created_at": "2022-05-16 11:06:39",
+    "updated_at": "2022-05-16 11:06:39"
+  },
+  {
+    "id": "37",
+    "name": "Australia - Broken_Hill",
+    "gmt_offset": "37800",
+    "gmt_offset_name": "UTC+10:30",
+    "abbreviation": "ACDT",
+    "tz_name": "Australian Central Daylight Saving Time",
+    "created_at": "2022-05-16 11:06:39",
+    "updated_at": "2022-05-16 11:06:39"
+  },
+  {
+    "id": "38",
+    "name": "Australia - Currie",
+    "gmt_offset": "39600",
+    "gmt_offset_name": "UTC+11:00",
+    "abbreviation": "AEDT",
+    "tz_name": "Australian Eastern Daylight Saving Time",
+    "created_at": "2022-05-16 11:06:39",
+    "updated_at": "2022-05-16 11:06:39"
+  },
+  {
+    "id": "39",
+    "name": "Australia - Darwin",
+    "gmt_offset": "34200",
+    "gmt_offset_name": "UTC+09:30",
+    "abbreviation": "ACST",
+    "tz_name": "Australian Central Standard Time",
+    "created_at": "2022-05-16 11:06:39",
+    "updated_at": "2022-05-16 11:06:39"
+  },
+  {
+    "id": "40",
+    "name": "Australia - Eucla",
+    "gmt_offset": "31500",
+    "gmt_offset_name": "UTC+08:45",
+    "abbreviation": "ACWST",
+    "tz_name": "Australian Central Western Standard Time (Unofficial)",
+    "created_at": "2022-05-16 11:06:39",
+    "updated_at": "2022-05-16 11:06:39"
+  },
+  {
+    "id": "41",
+    "name": "Australia - Hobart",
+    "gmt_offset": "39600",
+    "gmt_offset_name": "UTC+11:00",
+    "abbreviation": "AEDT",
+    "tz_name": "Australian Eastern Daylight Saving Time",
+    "created_at": "2022-05-16 11:06:39",
+    "updated_at": "2022-05-16 11:06:39"
+  },
+  {
+    "id": "42",
+    "name": "Australia - Lindeman",
+    "gmt_offset": "36000",
+    "gmt_offset_name": "UTC+10:00",
+    "abbreviation": "AEST",
+    "tz_name": "Australian Eastern Standard Time",
+    "created_at": "2022-05-16 11:06:39",
+    "updated_at": "2022-05-16 11:06:39"
+  },
+  {
+    "id": "43",
+    "name": "Australia - Lord_Howe",
+    "gmt_offset": "39600",
+    "gmt_offset_name": "UTC+11:00",
+    "abbreviation": "LHST",
+    "tz_name": "Lord Howe Summer Time",
+    "created_at": "2022-05-16 11:06:39",
+    "updated_at": "2022-05-16 11:06:39"
+  },
+  {
+    "id": "44",
+    "name": "Australia - Melbourne",
+    "gmt_offset": "39600",
+    "gmt_offset_name": "UTC+11:00",
+    "abbreviation": "AEDT",
+    "tz_name": "Australian Eastern Daylight Saving Time",
+    "created_at": "2022-05-16 11:06:39",
+    "updated_at": "2022-05-16 11:06:39"
+  },
+  {
+    "id": "45",
+    "name": "Australia - Perth",
+    "gmt_offset": "28800",
+    "gmt_offset_name": "UTC+08:00",
+    "abbreviation": "AWST",
+    "tz_name": "Australian Western Standard Time",
+    "created_at": "2022-05-16 11:06:39",
+    "updated_at": "2022-05-16 11:06:39"
+  },
+  {
+    "id": "46",
+    "name": "Australia - Sydney",
+    "gmt_offset": "39600",
+    "gmt_offset_name": "UTC+11:00",
+    "abbreviation": "AEDT",
+    "tz_name": "Australian Eastern Daylight Saving Time",
+    "created_at": "2022-05-16 11:06:39",
+    "updated_at": "2022-05-16 11:06:39"
+  },
+  {
+    "id": "47",
+    "name": "Europe - Vienna",
+    "gmt_offset": "3600",
+    "gmt_offset_name": "UTC+01:00",
+    "abbreviation": "CET",
+    "tz_name": "Central European Time",
+    "created_at": "2022-05-16 11:06:40",
+    "updated_at": "2022-05-16 11:06:40"
+  },
+  {
+    "id": "48",
+    "name": "Asia - Baku",
+    "gmt_offset": "14400",
+    "gmt_offset_name": "UTC+04:00",
+    "abbreviation": "AZT",
+    "tz_name": "Azerbaijan Time",
+    "created_at": "2022-05-16 11:06:40",
+    "updated_at": "2022-05-16 11:06:40"
+  },
+  {
+    "id": "49",
+    "name": "Asia - Bahrain",
+    "gmt_offset": "10800",
+    "gmt_offset_name": "UTC+03:00",
+    "abbreviation": "AST",
+    "tz_name": "Arabia Standard Time",
+    "created_at": "2022-05-16 11:06:41",
+    "updated_at": "2022-05-16 11:06:41"
+  },
+  {
+    "id": "50",
+    "name": "Asia - Dhaka",
+    "gmt_offset": "21600",
+    "gmt_offset_name": "UTC+06:00",
+    "abbreviation": "BDT",
+    "tz_name": "Bangladesh Standard Time",
+    "created_at": "2022-05-16 11:06:41",
+    "updated_at": "2022-05-16 11:06:41"
+  },
+  {
+    "id": "51",
+    "name": "America - Barbados",
+    "gmt_offset": "-14400",
+    "gmt_offset_name": "UTC-04:00",
+    "abbreviation": "AST",
+    "tz_name": "Atlantic Standard Time",
+    "created_at": "2022-05-16 11:06:41",
+    "updated_at": "2022-05-16 11:06:41"
+  },
+  {
+    "id": "52",
+    "name": "Europe - Minsk",
+    "gmt_offset": "10800",
+    "gmt_offset_name": "UTC+03:00",
+    "abbreviation": "MSK",
+    "tz_name": "Moscow Time",
+    "created_at": "2022-05-16 11:06:42",
+    "updated_at": "2022-05-16 11:06:42"
+  },
+  {
+    "id": "53",
+    "name": "Europe - Brussels",
+    "gmt_offset": "3600",
+    "gmt_offset_name": "UTC+01:00",
+    "abbreviation": "CET",
+    "tz_name": "Central European Time",
+    "created_at": "2022-05-16 11:06:42",
+    "updated_at": "2022-05-16 11:06:42"
+  },
+  {
+    "id": "54",
+    "name": "America - Belize",
+    "gmt_offset": "-21600",
+    "gmt_offset_name": "UTC-06:00",
+    "abbreviation": "CST",
+    "tz_name": "Central Standard Time (North America)",
+    "created_at": "2022-05-16 11:06:42",
+    "updated_at": "2022-05-16 11:06:42"
+  },
+  {
+    "id": "55",
+    "name": "Africa - Porto-Novo",
+    "gmt_offset": "3600",
+    "gmt_offset_name": "UTC+01:00",
+    "abbreviation": "WAT",
+    "tz_name": "West Africa Time",
+    "created_at": "2022-05-16 11:06:43",
+    "updated_at": "2022-05-16 11:06:43"
+  },
+  {
+    "id": "56",
+    "name": "Atlantic - Bermuda",
+    "gmt_offset": "-14400",
+    "gmt_offset_name": "UTC-04:00",
+    "abbreviation": "AST",
+    "tz_name": "Atlantic Standard Time",
+    "created_at": "2022-05-16 11:06:43",
+    "updated_at": "2022-05-16 11:06:43"
+  },
+  {
+    "id": "57",
+    "name": "Asia - Thimphu",
+    "gmt_offset": "21600",
+    "gmt_offset_name": "UTC+06:00",
+    "abbreviation": "BTT",
+    "tz_name": "Bhutan Time",
+    "created_at": "2022-05-16 11:06:44",
+    "updated_at": "2022-05-16 11:06:44"
+  },
+  {
+    "id": "58",
+    "name": "America - La_Paz",
+    "gmt_offset": "-14400",
+    "gmt_offset_name": "UTC-04:00",
+    "abbreviation": "BOT",
+    "tz_name": "Bolivia Time",
+    "created_at": "2022-05-16 11:06:44",
+    "updated_at": "2022-05-16 11:06:44"
+  },
+  {
+    "id": "59",
+    "name": "Europe - Sarajevo",
+    "gmt_offset": "3600",
+    "gmt_offset_name": "UTC+01:00",
+    "abbreviation": "CET",
+    "tz_name": "Central European Time",
+    "created_at": "2022-05-16 11:06:45",
+    "updated_at": "2022-05-16 11:06:45"
+  },
+  {
+    "id": "60",
+    "name": "Africa - Gaborone",
+    "gmt_offset": "7200",
+    "gmt_offset_name": "UTC+02:00",
+    "abbreviation": "CAT",
+    "tz_name": "Central Africa Time",
+    "created_at": "2022-05-16 11:06:45",
+    "updated_at": "2022-05-16 11:06:45"
+  },
+  {
+    "id": "61",
+    "name": "Europe - Oslo",
+    "gmt_offset": "3600",
+    "gmt_offset_name": "UTC+01:00",
+    "abbreviation": "CET",
+    "tz_name": "Central European Time",
+    "created_at": "2022-05-16 11:06:46",
+    "updated_at": "2022-05-16 11:06:46"
+  },
+  {
+    "id": "62",
+    "name": "America - Araguaina",
+    "gmt_offset": "-10800",
+    "gmt_offset_name": "UTC-03:00",
+    "abbreviation": "BRT",
+    "tz_name": "Brasília Time",
+    "created_at": "2022-05-16 11:06:46",
+    "updated_at": "2022-05-16 11:06:46"
+  },
+  {
+    "id": "63",
+    "name": "America - Bahia",
+    "gmt_offset": "-10800",
+    "gmt_offset_name": "UTC-03:00",
+    "abbreviation": "BRT",
+    "tz_name": "Brasília Time",
+    "created_at": "2022-05-16 11:06:46",
+    "updated_at": "2022-05-16 11:06:46"
+  },
+  {
+    "id": "64",
+    "name": "America - Belem",
+    "gmt_offset": "-10800",
+    "gmt_offset_name": "UTC-03:00",
+    "abbreviation": "BRT",
+    "tz_name": "Brasília Time",
+    "created_at": "2022-05-16 11:06:46",
+    "updated_at": "2022-05-16 11:06:46"
+  },
+  {
+    "id": "65",
+    "name": "America - Boa_Vista",
+    "gmt_offset": "-14400",
+    "gmt_offset_name": "UTC-04:00",
+    "abbreviation": "AMT",
+    "tz_name": "Amazon Time (Brazil)3",
+    "created_at": "2022-05-16 11:06:46",
+    "updated_at": "2022-05-16 11:06:46"
+  },
+  {
+    "id": "66",
+    "name": "America - Campo_Grande",
+    "gmt_offset": "-14400",
+    "gmt_offset_name": "UTC-04:00",
+    "abbreviation": "AMT",
+    "tz_name": "Amazon Time (Brazil)3",
+    "created_at": "2022-05-16 11:06:46",
+    "updated_at": "2022-05-16 11:06:46"
+  },
+  {
+    "id": "67",
+    "name": "America - Cuiaba",
+    "gmt_offset": "-14400",
+    "gmt_offset_name": "UTC-04:00",
+    "abbreviation": "BRT",
+    "tz_name": "Brasilia Time",
+    "created_at": "2022-05-16 11:06:46",
+    "updated_at": "2022-05-16 11:06:46"
+  },
+  {
+    "id": "68",
+    "name": "America - Eirunepe",
+    "gmt_offset": "-18000",
+    "gmt_offset_name": "UTC-05:00",
+    "abbreviation": "ACT",
+    "tz_name": "Acre Time",
+    "created_at": "2022-05-16 11:06:46",
+    "updated_at": "2022-05-16 11:06:46"
+  },
+  {
+    "id": "69",
+    "name": "America - Fortaleza",
+    "gmt_offset": "-10800",
+    "gmt_offset_name": "UTC-03:00",
+    "abbreviation": "BRT",
+    "tz_name": "Brasília Time",
+    "created_at": "2022-05-16 11:06:46",
+    "updated_at": "2022-05-16 11:06:46"
+  },
+  {
+    "id": "70",
+    "name": "America - Maceio",
+    "gmt_offset": "-10800",
+    "gmt_offset_name": "UTC-03:00",
+    "abbreviation": "BRT",
+    "tz_name": "Brasília Time",
+    "created_at": "2022-05-16 11:06:46",
+    "updated_at": "2022-05-16 11:06:46"
+  },
+  {
+    "id": "71",
+    "name": "America - Manaus",
+    "gmt_offset": "-14400",
+    "gmt_offset_name": "UTC-04:00",
+    "abbreviation": "AMT",
+    "tz_name": "Amazon Time (Brazil)",
+    "created_at": "2022-05-16 11:06:46",
+    "updated_at": "2022-05-16 11:06:46"
+  },
+  {
+    "id": "72",
+    "name": "America - Noronha",
+    "gmt_offset": "-7200",
+    "gmt_offset_name": "UTC-02:00",
+    "abbreviation": "FNT",
+    "tz_name": "Fernando de Noronha Time",
+    "created_at": "2022-05-16 11:06:46",
+    "updated_at": "2022-05-16 11:06:46"
+  },
+  {
+    "id": "73",
+    "name": "America - Porto_Velho",
+    "gmt_offset": "-14400",
+    "gmt_offset_name": "UTC-04:00",
+    "abbreviation": "AMT",
+    "tz_name": "Amazon Time (Brazil)3",
+    "created_at": "2022-05-16 11:06:46",
+    "updated_at": "2022-05-16 11:06:46"
+  },
+  {
+    "id": "74",
+    "name": "America - Recife",
+    "gmt_offset": "-10800",
+    "gmt_offset_name": "UTC-03:00",
+    "abbreviation": "BRT",
+    "tz_name": "Brasília Time",
+    "created_at": "2022-05-16 11:06:46",
+    "updated_at": "2022-05-16 11:06:46"
+  },
+  {
+    "id": "75",
+    "name": "America - Rio_Branco",
+    "gmt_offset": "-18000",
+    "gmt_offset_name": "UTC-05:00",
+    "abbreviation": "ACT",
+    "tz_name": "Acre Time",
+    "created_at": "2022-05-16 11:06:46",
+    "updated_at": "2022-05-16 11:06:46"
+  },
+  {
+    "id": "76",
+    "name": "America - Santarem",
+    "gmt_offset": "-10800",
+    "gmt_offset_name": "UTC-03:00",
+    "abbreviation": "BRT",
+    "tz_name": "Brasília Time",
+    "created_at": "2022-05-16 11:06:46",
+    "updated_at": "2022-05-16 11:06:46"
+  },
+  {
+    "id": "77",
+    "name": "America - Sao_Paulo",
+    "gmt_offset": "-10800",
+    "gmt_offset_name": "UTC-03:00",
+    "abbreviation": "BRT",
+    "tz_name": "Brasília Time",
+    "created_at": "2022-05-16 11:06:46",
+    "updated_at": "2022-05-16 11:06:46"
+  },
+  {
+    "id": "78",
+    "name": "Indian - Chagos",
+    "gmt_offset": "21600",
+    "gmt_offset_name": "UTC+06:00",
+    "abbreviation": "IOT",
+    "tz_name": "Indian Ocean Time",
+    "created_at": "2022-05-16 11:06:47",
+    "updated_at": "2022-05-16 11:06:47"
+  },
+  {
+    "id": "79",
+    "name": "Asia - Brunei",
+    "gmt_offset": "28800",
+    "gmt_offset_name": "UTC+08:00",
+    "abbreviation": "BNT",
+    "tz_name": "Brunei Darussalam Time",
+    "created_at": "2022-05-16 11:06:47",
+    "updated_at": "2022-05-16 11:06:47"
+  },
+  {
+    "id": "80",
+    "name": "Europe - Sofia",
+    "gmt_offset": "7200",
+    "gmt_offset_name": "UTC+02:00",
+    "abbreviation": "EET",
+    "tz_name": "Eastern European Time",
+    "created_at": "2022-05-16 11:06:48",
+    "updated_at": "2022-05-16 11:06:48"
+  },
+  {
+    "id": "81",
+    "name": "Africa - Ouagadougou",
+    "gmt_offset": "0",
+    "gmt_offset_name": "UTC±00",
+    "abbreviation": "GMT",
+    "tz_name": "Greenwich Mean Time",
+    "created_at": "2022-05-16 11:06:48",
+    "updated_at": "2022-05-16 11:06:48"
+  },
+  {
+    "id": "82",
+    "name": "Africa - Bujumbura",
+    "gmt_offset": "7200",
+    "gmt_offset_name": "UTC+02:00",
+    "abbreviation": "CAT",
+    "tz_name": "Central Africa Time",
+    "created_at": "2022-05-16 11:06:49",
+    "updated_at": "2022-05-16 11:06:49"
+  },
+  {
+    "id": "83",
+    "name": "Asia - Phnom_Penh",
+    "gmt_offset": "25200",
+    "gmt_offset_name": "UTC+07:00",
+    "abbreviation": "ICT",
+    "tz_name": "Indochina Time",
+    "created_at": "2022-05-16 11:06:50",
+    "updated_at": "2022-05-16 11:06:50"
+  },
+  {
+    "id": "84",
+    "name": "Africa - Douala",
+    "gmt_offset": "3600",
+    "gmt_offset_name": "UTC+01:00",
+    "abbreviation": "WAT",
+    "tz_name": "West Africa Time",
+    "created_at": "2022-05-16 11:06:50",
+    "updated_at": "2022-05-16 11:06:50"
+  },
+  {
+    "id": "85",
+    "name": "America - Atikokan",
+    "gmt_offset": "-18000",
+    "gmt_offset_name": "UTC-05:00",
+    "abbreviation": "EST",
+    "tz_name": "Eastern Standard Time (North America)",
+    "created_at": "2022-05-16 11:06:51",
+    "updated_at": "2022-05-16 11:06:51"
+  },
+  {
+    "id": "86",
+    "name": "America - Blanc-Sablon",
+    "gmt_offset": "-14400",
+    "gmt_offset_name": "UTC-04:00",
+    "abbreviation": "AST",
+    "tz_name": "Atlantic Standard Time",
+    "created_at": "2022-05-16 11:06:51",
+    "updated_at": "2022-05-16 11:06:51"
+  },
+  {
+    "id": "87",
+    "name": "America - Cambridge_Bay",
+    "gmt_offset": "-25200",
+    "gmt_offset_name": "UTC-07:00",
+    "abbreviation": "MST",
+    "tz_name": "Mountain Standard Time (North America)",
+    "created_at": "2022-05-16 11:06:51",
+    "updated_at": "2022-05-16 11:06:51"
+  },
+  {
+    "id": "88",
+    "name": "America - Creston",
+    "gmt_offset": "-25200",
+    "gmt_offset_name": "UTC-07:00",
+    "abbreviation": "MST",
+    "tz_name": "Mountain Standard Time (North America)",
+    "created_at": "2022-05-16 11:06:51",
+    "updated_at": "2022-05-16 11:06:51"
+  },
+  {
+    "id": "89",
+    "name": "America - Dawson",
+    "gmt_offset": "-25200",
+    "gmt_offset_name": "UTC-07:00",
+    "abbreviation": "MST",
+    "tz_name": "Mountain Standard Time (North America)",
+    "created_at": "2022-05-16 11:06:51",
+    "updated_at": "2022-05-16 11:06:51"
+  },
+  {
+    "id": "90",
+    "name": "America - Dawson_Creek",
+    "gmt_offset": "-25200",
+    "gmt_offset_name": "UTC-07:00",
+    "abbreviation": "MST",
+    "tz_name": "Mountain Standard Time (North America)",
+    "created_at": "2022-05-16 11:06:51",
+    "updated_at": "2022-05-16 11:06:51"
+  },
+  {
+    "id": "91",
+    "name": "America - Edmonton",
+    "gmt_offset": "-25200",
+    "gmt_offset_name": "UTC-07:00",
+    "abbreviation": "MST",
+    "tz_name": "Mountain Standard Time (North America)",
+    "created_at": "2022-05-16 11:06:51",
+    "updated_at": "2022-05-16 11:06:51"
+  },
+  {
+    "id": "92",
+    "name": "America - Fort_Nelson",
+    "gmt_offset": "-25200",
+    "gmt_offset_name": "UTC-07:00",
+    "abbreviation": "MST",
+    "tz_name": "Mountain Standard Time (North America)",
+    "created_at": "2022-05-16 11:06:51",
+    "updated_at": "2022-05-16 11:06:51"
+  },
+  {
+    "id": "93",
+    "name": "America - Glace_Bay",
+    "gmt_offset": "-14400",
+    "gmt_offset_name": "UTC-04:00",
+    "abbreviation": "AST",
+    "tz_name": "Atlantic Standard Time",
+    "created_at": "2022-05-16 11:06:51",
+    "updated_at": "2022-05-16 11:06:51"
+  },
+  {
+    "id": "94",
+    "name": "America - Goose_Bay",
+    "gmt_offset": "-14400",
+    "gmt_offset_name": "UTC-04:00",
+    "abbreviation": "AST",
+    "tz_name": "Atlantic Standard Time",
+    "created_at": "2022-05-16 11:06:51",
+    "updated_at": "2022-05-16 11:06:51"
+  },
+  {
+    "id": "95",
+    "name": "America - Halifax",
+    "gmt_offset": "-14400",
+    "gmt_offset_name": "UTC-04:00",
+    "abbreviation": "AST",
+    "tz_name": "Atlantic Standard Time",
+    "created_at": "2022-05-16 11:06:51",
+    "updated_at": "2022-05-16 11:06:51"
+  },
+  {
+    "id": "96",
+    "name": "America - Inuvik",
+    "gmt_offset": "-25200",
+    "gmt_offset_name": "UTC-07:00",
+    "abbreviation": "MST",
+    "tz_name": "Mountain Standard Time (North America",
+    "created_at": "2022-05-16 11:06:51",
+    "updated_at": "2022-05-16 11:06:51"
+  },
+  {
+    "id": "97",
+    "name": "America - Iqaluit",
+    "gmt_offset": "-18000",
+    "gmt_offset_name": "UTC-05:00",
+    "abbreviation": "EST",
+    "tz_name": "Eastern Standard Time (North America",
+    "created_at": "2022-05-16 11:06:51",
+    "updated_at": "2022-05-16 11:06:51"
+  },
+  {
+    "id": "98",
+    "name": "America - Moncton",
+    "gmt_offset": "-14400",
+    "gmt_offset_name": "UTC-04:00",
+    "abbreviation": "AST",
+    "tz_name": "Atlantic Standard Time",
+    "created_at": "2022-05-16 11:06:51",
+    "updated_at": "2022-05-16 11:06:51"
+  },
+  {
+    "id": "99",
+    "name": "America - Nipigon",
+    "gmt_offset": "-18000",
+    "gmt_offset_name": "UTC-05:00",
+    "abbreviation": "EST",
+    "tz_name": "Eastern Standard Time (North America",
+    "created_at": "2022-05-16 11:06:51",
+    "updated_at": "2022-05-16 11:06:51"
+  },
+  {
+    "id": "100",
+    "name": "America - Pangnirtung",
+    "gmt_offset": "-18000",
+    "gmt_offset_name": "UTC-05:00",
+    "abbreviation": "EST",
+    "tz_name": "Eastern Standard Time (North America",
+    "created_at": "2022-05-16 11:06:51",
+    "updated_at": "2022-05-16 11:06:51"
+  },
+  {
+    "id": "101",
+    "name": "America - Rainy_River",
+    "gmt_offset": "-21600",
+    "gmt_offset_name": "UTC-06:00",
+    "abbreviation": "CST",
+    "tz_name": "Central Standard Time (North America",
+    "created_at": "2022-05-16 11:06:51",
+    "updated_at": "2022-05-16 11:06:51"
+  },
+  {
+    "id": "102",
+    "name": "America - Rankin_Inlet",
+    "gmt_offset": "-21600",
+    "gmt_offset_name": "UTC-06:00",
+    "abbreviation": "CST",
+    "tz_name": "Central Standard Time (North America",
+    "created_at": "2022-05-16 11:06:51",
+    "updated_at": "2022-05-16 11:06:51"
+  },
+  {
+    "id": "103",
+    "name": "America - Regina",
+    "gmt_offset": "-21600",
+    "gmt_offset_name": "UTC-06:00",
+    "abbreviation": "CST",
+    "tz_name": "Central Standard Time (North America",
+    "created_at": "2022-05-16 11:06:51",
+    "updated_at": "2022-05-16 11:06:51"
+  },
+  {
+    "id": "104",
+    "name": "America - Resolute",
+    "gmt_offset": "-21600",
+    "gmt_offset_name": "UTC-06:00",
+    "abbreviation": "CST",
+    "tz_name": "Central Standard Time (North America",
+    "created_at": "2022-05-16 11:06:51",
+    "updated_at": "2022-05-16 11:06:51"
+  },
+  {
+    "id": "105",
+    "name": "America - St_Johns",
+    "gmt_offset": "-12600",
+    "gmt_offset_name": "UTC-03:30",
+    "abbreviation": "NST",
+    "tz_name": "Newfoundland Standard Time",
+    "created_at": "2022-05-16 11:06:51",
+    "updated_at": "2022-05-16 11:06:51"
+  },
+  {
+    "id": "106",
+    "name": "America - Swift_Current",
+    "gmt_offset": "-21600",
+    "gmt_offset_name": "UTC-06:00",
+    "abbreviation": "CST",
+    "tz_name": "Central Standard Time (North America",
+    "created_at": "2022-05-16 11:06:51",
+    "updated_at": "2022-05-16 11:06:51"
+  },
+  {
+    "id": "107",
+    "name": "America - Thunder_Bay",
+    "gmt_offset": "-18000",
+    "gmt_offset_name": "UTC-05:00",
+    "abbreviation": "EST",
+    "tz_name": "Eastern Standard Time (North America",
+    "created_at": "2022-05-16 11:06:51",
+    "updated_at": "2022-05-16 11:06:51"
+  },
+  {
+    "id": "108",
+    "name": "America - Toronto",
+    "gmt_offset": "-18000",
+    "gmt_offset_name": "UTC-05:00",
+    "abbreviation": "EST",
+    "tz_name": "Eastern Standard Time (North America",
+    "created_at": "2022-05-16 11:06:51",
+    "updated_at": "2022-05-16 11:06:51"
+  },
+  {
+    "id": "109",
+    "name": "America - Vancouver",
+    "gmt_offset": "-28800",
+    "gmt_offset_name": "UTC-08:00",
+    "abbreviation": "PST",
+    "tz_name": "Pacific Standard Time (North America",
+    "created_at": "2022-05-16 11:06:51",
+    "updated_at": "2022-05-16 11:06:51"
+  },
+  {
+    "id": "110",
+    "name": "America - Whitehorse",
+    "gmt_offset": "-25200",
+    "gmt_offset_name": "UTC-07:00",
+    "abbreviation": "MST",
+    "tz_name": "Mountain Standard Time (North America",
+    "created_at": "2022-05-16 11:06:51",
+    "updated_at": "2022-05-16 11:06:51"
+  },
+  {
+    "id": "111",
+    "name": "America - Winnipeg",
+    "gmt_offset": "-21600",
+    "gmt_offset_name": "UTC-06:00",
+    "abbreviation": "CST",
+    "tz_name": "Central Standard Time (North America",
+    "created_at": "2022-05-16 11:06:51",
+    "updated_at": "2022-05-16 11:06:51"
+  },
+  {
+    "id": "112",
+    "name": "America - Yellowknife",
+    "gmt_offset": "-25200",
+    "gmt_offset_name": "UTC-07:00",
+    "abbreviation": "MST",
+    "tz_name": "Mountain Standard Time (North America",
+    "created_at": "2022-05-16 11:06:51",
+    "updated_at": "2022-05-16 11:06:51"
+  },
+  {
+    "id": "113",
+    "name": "Atlantic - Cape_Verde",
+    "gmt_offset": "-3600",
+    "gmt_offset_name": "UTC-01:00",
+    "abbreviation": "CVT",
+    "tz_name": "Cape Verde Time",
+    "created_at": "2022-05-16 11:06:52",
+    "updated_at": "2022-05-16 11:06:52"
+  },
+  {
+    "id": "114",
+    "name": "America - Cayman",
+    "gmt_offset": "-18000",
+    "gmt_offset_name": "UTC-05:00",
+    "abbreviation": "EST",
+    "tz_name": "Eastern Standard Time (North America",
+    "created_at": "2022-05-16 11:06:53",
+    "updated_at": "2022-05-16 11:06:53"
+  },
+  {
+    "id": "115",
+    "name": "Africa - Bangui",
+    "gmt_offset": "3600",
+    "gmt_offset_name": "UTC+01:00",
+    "abbreviation": "WAT",
+    "tz_name": "West Africa Time",
+    "created_at": "2022-05-16 11:06:53",
+    "updated_at": "2022-05-16 11:06:53"
+  },
+  {
+    "id": "116",
+    "name": "Africa - Ndjamena",
+    "gmt_offset": "3600",
+    "gmt_offset_name": "UTC+01:00",
+    "abbreviation": "WAT",
+    "tz_name": "West Africa Time",
+    "created_at": "2022-05-16 11:06:54",
+    "updated_at": "2022-05-16 11:06:54"
+  },
+  {
+    "id": "117",
+    "name": "America - Punta_Arenas",
+    "gmt_offset": "-10800",
+    "gmt_offset_name": "UTC-03:00",
+    "abbreviation": "CLST",
+    "tz_name": "Chile Summer Time",
+    "created_at": "2022-05-16 11:06:55",
+    "updated_at": "2022-05-16 11:06:55"
+  },
+  {
+    "id": "118",
+    "name": "America - Santiago",
+    "gmt_offset": "-10800",
+    "gmt_offset_name": "UTC-03:00",
+    "abbreviation": "CLST",
+    "tz_name": "Chile Summer Time",
+    "created_at": "2022-05-16 11:06:55",
+    "updated_at": "2022-05-16 11:06:55"
+  },
+  {
+    "id": "119",
+    "name": "Pacific - Easter",
+    "gmt_offset": "-18000",
+    "gmt_offset_name": "UTC-05:00",
+    "abbreviation": "EASST",
+    "tz_name": "Easter Island Summer Time",
+    "created_at": "2022-05-16 11:06:55",
+    "updated_at": "2022-05-16 11:06:55"
+  },
+  {
+    "id": "120",
+    "name": "Asia - Shanghai",
+    "gmt_offset": "28800",
+    "gmt_offset_name": "UTC+08:00",
+    "abbreviation": "CST",
+    "tz_name": "China Standard Time",
+    "created_at": "2022-05-16 11:06:56",
+    "updated_at": "2022-05-16 11:06:56"
+  },
+  {
+    "id": "121",
+    "name": "Asia - Urumqi",
+    "gmt_offset": "21600",
+    "gmt_offset_name": "UTC+06:00",
+    "abbreviation": "XJT",
+    "tz_name": "China Standard Time",
+    "created_at": "2022-05-16 11:06:56",
+    "updated_at": "2022-05-16 11:06:56"
+  },
+  {
+    "id": "122",
+    "name": "Indian - Christmas",
+    "gmt_offset": "25200",
+    "gmt_offset_name": "UTC+07:00",
+    "abbreviation": "CXT",
+    "tz_name": "Christmas Island Time",
+    "created_at": "2022-05-16 11:06:57",
+    "updated_at": "2022-05-16 11:06:57"
+  },
+  {
+    "id": "123",
+    "name": "Indian - Cocos",
+    "gmt_offset": "23400",
+    "gmt_offset_name": "UTC+06:30",
+    "abbreviation": "CCT",
+    "tz_name": "Cocos Islands Time",
+    "created_at": "2022-05-16 11:06:58",
+    "updated_at": "2022-05-16 11:06:58"
+  },
+  {
+    "id": "124",
+    "name": "America - Bogota",
+    "gmt_offset": "-18000",
+    "gmt_offset_name": "UTC-05:00",
+    "abbreviation": "COT",
+    "tz_name": "Colombia Time",
+    "created_at": "2022-05-16 11:06:59",
+    "updated_at": "2022-05-16 11:06:59"
+  },
+  {
+    "id": "125",
+    "name": "Indian - Comoro",
+    "gmt_offset": "10800",
+    "gmt_offset_name": "UTC+03:00",
+    "abbreviation": "EAT",
+    "tz_name": "East Africa Time",
+    "created_at": "2022-05-16 11:07:00",
+    "updated_at": "2022-05-16 11:07:00"
+  },
+  {
+    "id": "126",
+    "name": "Africa - Brazzaville",
+    "gmt_offset": "3600",
+    "gmt_offset_name": "UTC+01:00",
+    "abbreviation": "WAT",
+    "tz_name": "West Africa Time",
+    "created_at": "2022-05-16 11:07:01",
+    "updated_at": "2022-05-16 11:07:01"
+  },
+  {
+    "id": "127",
+    "name": "Pacific - Rarotonga",
+    "gmt_offset": "-36000",
+    "gmt_offset_name": "UTC-10:00",
+    "abbreviation": "CKT",
+    "tz_name": "Cook Island Time",
+    "created_at": "2022-05-16 11:07:02",
+    "updated_at": "2022-05-16 11:07:02"
+  },
+  {
+    "id": "128",
+    "name": "America - Costa_Rica",
+    "gmt_offset": "-21600",
+    "gmt_offset_name": "UTC-06:00",
+    "abbreviation": "CST",
+    "tz_name": "Central Standard Time (North America",
+    "created_at": "2022-05-16 11:07:03",
+    "updated_at": "2022-05-16 11:07:03"
+  },
+  {
+    "id": "129",
+    "name": "Africa - Abidjan",
+    "gmt_offset": "0",
+    "gmt_offset_name": "UTC±00",
+    "abbreviation": "GMT",
+    "tz_name": "Greenwich Mean Time",
+    "created_at": "2022-05-16 11:07:04",
+    "updated_at": "2022-05-16 11:07:04"
+  },
+  {
+    "id": "130",
+    "name": "Europe - Zagreb",
+    "gmt_offset": "3600",
+    "gmt_offset_name": "UTC+01:00",
+    "abbreviation": "CET",
+    "tz_name": "Central European Time",
+    "created_at": "2022-05-16 11:07:05",
+    "updated_at": "2022-05-16 11:07:05"
+  },
+  {
+    "id": "131",
+    "name": "America - Havana",
+    "gmt_offset": "-18000",
+    "gmt_offset_name": "UTC-05:00",
+    "abbreviation": "CST",
+    "tz_name": "Cuba Standard Time",
+    "created_at": "2022-05-16 11:07:06",
+    "updated_at": "2022-05-16 11:07:06"
+  },
+  {
+    "id": "132",
+    "name": "America - Curacao",
+    "gmt_offset": "-14400",
+    "gmt_offset_name": "UTC-04:00",
+    "abbreviation": "AST",
+    "tz_name": "Atlantic Standard Time",
+    "created_at": "2022-05-16 11:07:07",
+    "updated_at": "2022-05-16 11:07:07"
+  },
+  {
+    "id": "133",
+    "name": "Asia - Famagusta",
+    "gmt_offset": "7200",
+    "gmt_offset_name": "UTC+02:00",
+    "abbreviation": "EET",
+    "tz_name": "Eastern European Time",
+    "created_at": "2022-05-16 11:07:08",
+    "updated_at": "2022-05-16 11:07:08"
+  },
+  {
+    "id": "134",
+    "name": "Asia - Nicosia",
+    "gmt_offset": "7200",
+    "gmt_offset_name": "UTC+02:00",
+    "abbreviation": "EET",
+    "tz_name": "Eastern European Time",
+    "created_at": "2022-05-16 11:07:08",
+    "updated_at": "2022-05-16 11:07:08"
+  },
+  {
+    "id": "135",
+    "name": "Europe - Prague",
+    "gmt_offset": "3600",
+    "gmt_offset_name": "UTC+01:00",
+    "abbreviation": "CET",
+    "tz_name": "Central European Time",
+    "created_at": "2022-05-16 11:07:09",
+    "updated_at": "2022-05-16 11:07:09"
+  },
+  {
+    "id": "136",
+    "name": "Africa - Kinshasa",
+    "gmt_offset": "3600",
+    "gmt_offset_name": "UTC+01:00",
+    "abbreviation": "WAT",
+    "tz_name": "West Africa Time",
+    "created_at": "2022-05-16 11:07:10",
+    "updated_at": "2022-05-16 11:07:10"
+  },
+  {
+    "id": "137",
+    "name": "Africa - Lubumbashi",
+    "gmt_offset": "7200",
+    "gmt_offset_name": "UTC+02:00",
+    "abbreviation": "CAT",
+    "tz_name": "Central Africa Time",
+    "created_at": "2022-05-16 11:07:10",
+    "updated_at": "2022-05-16 11:07:10"
+  },
+  {
+    "id": "138",
+    "name": "Europe - Copenhagen",
+    "gmt_offset": "3600",
+    "gmt_offset_name": "UTC+01:00",
+    "abbreviation": "CET",
+    "tz_name": "Central European Time",
+    "created_at": "2022-05-16 11:07:11",
+    "updated_at": "2022-05-16 11:07:11"
+  },
+  {
+    "id": "139",
+    "name": "Africa - Djibouti",
+    "gmt_offset": "10800",
+    "gmt_offset_name": "UTC+03:00",
+    "abbreviation": "EAT",
+    "tz_name": "East Africa Time",
+    "created_at": "2022-05-16 11:07:12",
+    "updated_at": "2022-05-16 11:07:12"
+  },
+  {
+    "id": "140",
+    "name": "America - Dominica",
+    "gmt_offset": "-14400",
+    "gmt_offset_name": "UTC-04:00",
+    "abbreviation": "AST",
+    "tz_name": "Atlantic Standard Time",
+    "created_at": "2022-05-16 11:07:13",
+    "updated_at": "2022-05-16 11:07:13"
+  },
+  {
+    "id": "141",
+    "name": "America - Santo_Domingo",
+    "gmt_offset": "-14400",
+    "gmt_offset_name": "UTC-04:00",
+    "abbreviation": "AST",
+    "tz_name": "Atlantic Standard Time",
+    "created_at": "2022-05-16 11:07:14",
+    "updated_at": "2022-05-16 11:07:14"
+  },
+  {
+    "id": "142",
+    "name": "Asia - Dili",
+    "gmt_offset": "32400",
+    "gmt_offset_name": "UTC+09:00",
+    "abbreviation": "TLT",
+    "tz_name": "Timor Leste Time",
+    "created_at": "2022-05-16 11:07:15",
+    "updated_at": "2022-05-16 11:07:15"
+  },
+  {
+    "id": "143",
+    "name": "America - Guayaquil",
+    "gmt_offset": "-18000",
+    "gmt_offset_name": "UTC-05:00",
+    "abbreviation": "ECT",
+    "tz_name": "Ecuador Time",
+    "created_at": "2022-05-16 11:07:16",
+    "updated_at": "2022-05-16 11:07:16"
+  },
+  {
+    "id": "144",
+    "name": "Pacific - Galapagos",
+    "gmt_offset": "-21600",
+    "gmt_offset_name": "UTC-06:00",
+    "abbreviation": "GALT",
+    "tz_name": "Galápagos Time",
+    "created_at": "2022-05-16 11:07:16",
+    "updated_at": "2022-05-16 11:07:16"
+  },
+  {
+    "id": "145",
+    "name": "Africa - Cairo",
+    "gmt_offset": "7200",
+    "gmt_offset_name": "UTC+02:00",
+    "abbreviation": "EET",
+    "tz_name": "Eastern European Time",
+    "created_at": "2022-05-16 11:07:17",
+    "updated_at": "2022-05-16 11:07:17"
+  },
+  {
+    "id": "146",
+    "name": "America - El_Salvador",
+    "gmt_offset": "-21600",
+    "gmt_offset_name": "UTC-06:00",
+    "abbreviation": "CST",
+    "tz_name": "Central Standard Time (North America",
+    "created_at": "2022-05-16 11:07:18",
+    "updated_at": "2022-05-16 11:07:18"
+  },
+  {
+    "id": "147",
+    "name": "Africa - Malabo",
+    "gmt_offset": "3600",
+    "gmt_offset_name": "UTC+01:00",
+    "abbreviation": "WAT",
+    "tz_name": "West Africa Time",
+    "created_at": "2022-05-16 11:07:20",
+    "updated_at": "2022-05-16 11:07:20"
+  },
+  {
+    "id": "148",
+    "name": "Africa - Asmara",
+    "gmt_offset": "10800",
+    "gmt_offset_name": "UTC+03:00",
+    "abbreviation": "EAT",
+    "tz_name": "East Africa Time",
+    "created_at": "2022-05-16 11:07:21",
+    "updated_at": "2022-05-16 11:07:21"
+  },
+  {
+    "id": "149",
+    "name": "Europe - Tallinn",
+    "gmt_offset": "7200",
+    "gmt_offset_name": "UTC+02:00",
+    "abbreviation": "EET",
+    "tz_name": "Eastern European Time",
+    "created_at": "2022-05-16 11:07:22",
+    "updated_at": "2022-05-16 11:07:22"
+  },
+  {
+    "id": "150",
+    "name": "Africa - Addis_Ababa",
+    "gmt_offset": "10800",
+    "gmt_offset_name": "UTC+03:00",
+    "abbreviation": "EAT",
+    "tz_name": "East Africa Time",
+    "created_at": "2022-05-16 11:07:23",
+    "updated_at": "2022-05-16 11:07:23"
+  },
+  {
+    "id": "151",
+    "name": "Atlantic - Stanley",
+    "gmt_offset": "-10800",
+    "gmt_offset_name": "UTC-03:00",
+    "abbreviation": "FKST",
+    "tz_name": "Falkland Islands Summer Time",
+    "created_at": "2022-05-16 11:07:24",
+    "updated_at": "2022-05-16 11:07:24"
+  },
+  {
+    "id": "152",
+    "name": "Atlantic - Faroe",
+    "gmt_offset": "0",
+    "gmt_offset_name": "UTC±00",
+    "abbreviation": "WET",
+    "tz_name": "Western European Time",
+    "created_at": "2022-05-16 11:07:25",
+    "updated_at": "2022-05-16 11:07:25"
+  },
+  {
+    "id": "153",
+    "name": "Pacific - Fiji",
+    "gmt_offset": "43200",
+    "gmt_offset_name": "UTC+12:00",
+    "abbreviation": "FJT",
+    "tz_name": "Fiji Time",
+    "created_at": "2022-05-16 11:07:26",
+    "updated_at": "2022-05-16 11:07:26"
+  },
+  {
+    "id": "154",
+    "name": "Europe - Helsinki",
+    "gmt_offset": "7200",
+    "gmt_offset_name": "UTC+02:00",
+    "abbreviation": "EET",
+    "tz_name": "Eastern European Time",
+    "created_at": "2022-05-16 11:07:27",
+    "updated_at": "2022-05-16 11:07:27"
+  },
+  {
+    "id": "155",
+    "name": "Europe - Paris",
+    "gmt_offset": "3600",
+    "gmt_offset_name": "UTC+01:00",
+    "abbreviation": "CET",
+    "tz_name": "Central European Time",
+    "created_at": "2022-05-16 11:07:28",
+    "updated_at": "2022-05-16 11:07:28"
+  },
+  {
+    "id": "156",
+    "name": "America - Cayenne",
+    "gmt_offset": "-10800",
+    "gmt_offset_name": "UTC-03:00",
+    "abbreviation": "GFT",
+    "tz_name": "French Guiana Time",
+    "created_at": "2022-05-16 11:07:29",
+    "updated_at": "2022-05-16 11:07:29"
+  },
+  {
+    "id": "157",
+    "name": "Pacific - Gambier",
+    "gmt_offset": "-32400",
+    "gmt_offset_name": "UTC-09:00",
+    "abbreviation": "GAMT",
+    "tz_name": "Gambier Islands Time",
+    "created_at": "2022-05-16 11:07:30",
+    "updated_at": "2022-05-16 11:07:30"
+  },
+  {
+    "id": "158",
+    "name": "Pacific - Marquesas",
+    "gmt_offset": "-34200",
+    "gmt_offset_name": "UTC-09:30",
+    "abbreviation": "MART",
+    "tz_name": "Marquesas Islands Time",
+    "created_at": "2022-05-16 11:07:30",
+    "updated_at": "2022-05-16 11:07:30"
+  },
+  {
+    "id": "159",
+    "name": "Pacific - Tahiti",
+    "gmt_offset": "-36000",
+    "gmt_offset_name": "UTC-10:00",
+    "abbreviation": "TAHT",
+    "tz_name": "Tahiti Time",
+    "created_at": "2022-05-16 11:07:30",
+    "updated_at": "2022-05-16 11:07:30"
+  },
+  {
+    "id": "160",
+    "name": "Indian - Kerguelen",
+    "gmt_offset": "18000",
+    "gmt_offset_name": "UTC+05:00",
+    "abbreviation": "TFT",
+    "tz_name": "French Southern and Antarctic Time",
+    "created_at": "2022-05-16 11:07:31",
+    "updated_at": "2022-05-16 11:07:31"
+  },
+  {
+    "id": "161",
+    "name": "Africa - Libreville",
+    "gmt_offset": "3600",
+    "gmt_offset_name": "UTC+01:00",
+    "abbreviation": "WAT",
+    "tz_name": "West Africa Time",
+    "created_at": "2022-05-16 11:07:32",
+    "updated_at": "2022-05-16 11:07:32"
+  },
+  {
+    "id": "162",
+    "name": "Africa - Banjul",
+    "gmt_offset": "0",
+    "gmt_offset_name": "UTC±00",
+    "abbreviation": "GMT",
+    "tz_name": "Greenwich Mean Time",
+    "created_at": "2022-05-16 11:07:33",
+    "updated_at": "2022-05-16 11:07:33"
+  },
+  {
+    "id": "163",
+    "name": "Asia - Tbilisi",
+    "gmt_offset": "14400",
+    "gmt_offset_name": "UTC+04:00",
+    "abbreviation": "GET",
+    "tz_name": "Georgia Standard Time",
+    "created_at": "2022-05-16 11:07:35",
+    "updated_at": "2022-05-16 11:07:35"
+  },
+  {
+    "id": "164",
+    "name": "Europe - Berlin",
+    "gmt_offset": "3600",
+    "gmt_offset_name": "UTC+01:00",
+    "abbreviation": "CET",
+    "tz_name": "Central European Time",
+    "created_at": "2022-05-16 11:07:36",
+    "updated_at": "2022-05-16 11:07:36"
+  },
+  {
+    "id": "165",
+    "name": "Europe - Busingen",
+    "gmt_offset": "3600",
+    "gmt_offset_name": "UTC+01:00",
+    "abbreviation": "CET",
+    "tz_name": "Central European Time",
+    "created_at": "2022-05-16 11:07:36",
+    "updated_at": "2022-05-16 11:07:36"
+  },
+  {
+    "id": "166",
+    "name": "Africa - Accra",
+    "gmt_offset": "0",
+    "gmt_offset_name": "UTC±00",
+    "abbreviation": "GMT",
+    "tz_name": "Greenwich Mean Time",
+    "created_at": "2022-05-16 11:07:37",
+    "updated_at": "2022-05-16 11:07:37"
+  },
+  {
+    "id": "167",
+    "name": "Europe - Gibraltar",
+    "gmt_offset": "3600",
+    "gmt_offset_name": "UTC+01:00",
+    "abbreviation": "CET",
+    "tz_name": "Central European Time",
+    "created_at": "2022-05-16 11:07:38",
+    "updated_at": "2022-05-16 11:07:38"
+  },
+  {
+    "id": "168",
+    "name": "Europe - Athens",
+    "gmt_offset": "7200",
+    "gmt_offset_name": "UTC+02:00",
+    "abbreviation": "EET",
+    "tz_name": "Eastern European Time",
+    "created_at": "2022-05-16 11:07:39",
+    "updated_at": "2022-05-16 11:07:39"
+  },
+  {
+    "id": "169",
+    "name": "America - Danmarkshavn",
+    "gmt_offset": "0",
+    "gmt_offset_name": "UTC±00",
+    "abbreviation": "GMT",
+    "tz_name": "Greenwich Mean Time",
+    "created_at": "2022-05-16 11:07:40",
+    "updated_at": "2022-05-16 11:07:40"
+  },
+  {
+    "id": "170",
+    "name": "America - Nuuk",
+    "gmt_offset": "-10800",
+    "gmt_offset_name": "UTC-03:00",
+    "abbreviation": "WGT",
+    "tz_name": "West Greenland Time",
+    "created_at": "2022-05-16 11:07:40",
+    "updated_at": "2022-05-16 11:07:40"
+  },
+  {
+    "id": "171",
+    "name": "America - Scoresbysund",
+    "gmt_offset": "-3600",
+    "gmt_offset_name": "UTC-01:00",
+    "abbreviation": "EGT",
+    "tz_name": "Eastern Greenland Time",
+    "created_at": "2022-05-16 11:07:40",
+    "updated_at": "2022-05-16 11:07:40"
+  },
+  {
+    "id": "172",
+    "name": "America - Thule",
+    "gmt_offset": "-14400",
+    "gmt_offset_name": "UTC-04:00",
+    "abbreviation": "AST",
+    "tz_name": "Atlantic Standard Time",
+    "created_at": "2022-05-16 11:07:40",
+    "updated_at": "2022-05-16 11:07:40"
+  },
+  {
+    "id": "173",
+    "name": "America - Grenada",
+    "gmt_offset": "-14400",
+    "gmt_offset_name": "UTC-04:00",
+    "abbreviation": "AST",
+    "tz_name": "Atlantic Standard Time",
+    "created_at": "2022-05-16 11:07:41",
+    "updated_at": "2022-05-16 11:07:41"
+  },
+  {
+    "id": "174",
+    "name": "America - Guadeloupe",
+    "gmt_offset": "-14400",
+    "gmt_offset_name": "UTC-04:00",
+    "abbreviation": "AST",
+    "tz_name": "Atlantic Standard Time",
+    "created_at": "2022-05-16 11:07:43",
+    "updated_at": "2022-05-16 11:07:43"
+  },
+  {
+    "id": "175",
+    "name": "Pacific - Guam",
+    "gmt_offset": "36000",
+    "gmt_offset_name": "UTC+10:00",
+    "abbreviation": "CHST",
+    "tz_name": "Chamorro Standard Time",
+    "created_at": "2022-05-16 11:07:44",
+    "updated_at": "2022-05-16 11:07:44"
+  },
+  {
+    "id": "176",
+    "name": "America - Guatemala",
+    "gmt_offset": "-21600",
+    "gmt_offset_name": "UTC-06:00",
+    "abbreviation": "CST",
+    "tz_name": "Central Standard Time (North America",
+    "created_at": "2022-05-16 11:07:45",
+    "updated_at": "2022-05-16 11:07:45"
+  },
+  {
+    "id": "177",
+    "name": "Europe - Guernsey",
+    "gmt_offset": "0",
+    "gmt_offset_name": "UTC±00",
+    "abbreviation": "GMT",
+    "tz_name": "Greenwich Mean Time",
+    "created_at": "2022-05-16 11:07:46",
+    "updated_at": "2022-05-16 11:07:46"
+  },
+  {
+    "id": "178",
+    "name": "Africa - Conakry",
+    "gmt_offset": "0",
+    "gmt_offset_name": "UTC±00",
+    "abbreviation": "GMT",
+    "tz_name": "Greenwich Mean Time",
+    "created_at": "2022-05-16 11:07:47",
+    "updated_at": "2022-05-16 11:07:47"
+  },
+  {
+    "id": "179",
+    "name": "Africa - Bissau",
+    "gmt_offset": "0",
+    "gmt_offset_name": "UTC±00",
+    "abbreviation": "GMT",
+    "tz_name": "Greenwich Mean Time",
+    "created_at": "2022-05-16 11:07:49",
+    "updated_at": "2022-05-16 11:07:49"
+  },
+  {
+    "id": "180",
+    "name": "America - Guyana",
+    "gmt_offset": "-14400",
+    "gmt_offset_name": "UTC-04:00",
+    "abbreviation": "GYT",
+    "tz_name": "Guyana Time",
+    "created_at": "2022-05-16 11:07:50",
+    "updated_at": "2022-05-16 11:07:50"
+  },
+  {
+    "id": "181",
+    "name": "America - Port-au-Prince",
+    "gmt_offset": "-18000",
+    "gmt_offset_name": "UTC-05:00",
+    "abbreviation": "EST",
+    "tz_name": "Eastern Standard Time (North America",
+    "created_at": "2022-05-16 11:07:51",
+    "updated_at": "2022-05-16 11:07:51"
+  },
+  {
+    "id": "182",
+    "name": "America - Tegucigalpa",
+    "gmt_offset": "-21600",
+    "gmt_offset_name": "UTC-06:00",
+    "abbreviation": "CST",
+    "tz_name": "Central Standard Time (North America",
+    "created_at": "2022-05-16 11:07:53",
+    "updated_at": "2022-05-16 11:07:53"
+  },
+  {
+    "id": "183",
+    "name": "Asia - Hong_Kong",
+    "gmt_offset": "28800",
+    "gmt_offset_name": "UTC+08:00",
+    "abbreviation": "HKT",
+    "tz_name": "Hong Kong Time",
+    "created_at": "2022-05-16 11:07:55",
+    "updated_at": "2022-05-16 11:07:55"
+  },
+  {
+    "id": "184",
+    "name": "Europe - Budapest",
+    "gmt_offset": "3600",
+    "gmt_offset_name": "UTC+01:00",
+    "abbreviation": "CET",
+    "tz_name": "Central European Time",
+    "created_at": "2022-05-16 11:07:56",
+    "updated_at": "2022-05-16 11:07:56"
+  },
+  {
+    "id": "185",
+    "name": "Atlantic - Reykjavik",
+    "gmt_offset": "0",
+    "gmt_offset_name": "UTC±00",
+    "abbreviation": "GMT",
+    "tz_name": "Greenwich Mean Time",
+    "created_at": "2022-05-16 11:07:57",
+    "updated_at": "2022-05-16 11:07:57"
+  },
+  {
+    "id": "186",
+    "name": "Asia - Kolkata",
+    "gmt_offset": "19800",
+    "gmt_offset_name": "UTC+05:30",
+    "abbreviation": "IST",
+    "tz_name": "Indian Standard Time",
+    "created_at": "2022-05-16 11:07:59",
+    "updated_at": "2022-05-16 11:07:59"
+  },
+  {
+    "id": "187",
+    "name": "Asia - Jakarta",
+    "gmt_offset": "25200",
+    "gmt_offset_name": "UTC+07:00",
+    "abbreviation": "WIB",
+    "tz_name": "Western Indonesian Time",
+    "created_at": "2022-05-16 11:08:00",
+    "updated_at": "2022-05-16 11:08:00"
+  },
+  {
+    "id": "188",
+    "name": "Asia - Jayapura",
+    "gmt_offset": "32400",
+    "gmt_offset_name": "UTC+09:00",
+    "abbreviation": "WIT",
+    "tz_name": "Eastern Indonesian Time",
+    "created_at": "2022-05-16 11:08:00",
+    "updated_at": "2022-05-16 11:08:00"
+  },
+  {
+    "id": "189",
+    "name": "Asia - Makassar",
+    "gmt_offset": "28800",
+    "gmt_offset_name": "UTC+08:00",
+    "abbreviation": "WITA",
+    "tz_name": "Central Indonesia Time",
+    "created_at": "2022-05-16 11:08:00",
+    "updated_at": "2022-05-16 11:08:00"
+  },
+  {
+    "id": "190",
+    "name": "Asia - Pontianak",
+    "gmt_offset": "25200",
+    "gmt_offset_name": "UTC+07:00",
+    "abbreviation": "WIB",
+    "tz_name": "Western Indonesian Time",
+    "created_at": "2022-05-16 11:08:00",
+    "updated_at": "2022-05-16 11:08:00"
+  },
+  {
+    "id": "191",
+    "name": "Asia - Tehran",
+    "gmt_offset": "12600",
+    "gmt_offset_name": "UTC+03:30",
+    "abbreviation": "IRDT",
+    "tz_name": "Iran Daylight Time",
+    "created_at": "2022-05-16 11:08:02",
+    "updated_at": "2022-05-16 11:08:02"
+  },
+  {
+    "id": "192",
+    "name": "Asia - Baghdad",
+    "gmt_offset": "10800",
+    "gmt_offset_name": "UTC+03:00",
+    "abbreviation": "AST",
+    "tz_name": "Arabia Standard Time",
+    "created_at": "2022-05-16 11:08:03",
+    "updated_at": "2022-05-16 11:08:03"
+  },
+  {
+    "id": "193",
+    "name": "Europe - Dublin",
+    "gmt_offset": "0",
+    "gmt_offset_name": "UTC±00",
+    "abbreviation": "GMT",
+    "tz_name": "Greenwich Mean Time",
+    "created_at": "2022-05-16 11:08:05",
+    "updated_at": "2022-05-16 11:08:05"
+  },
+  {
+    "id": "194",
+    "name": "Asia - Jerusalem",
+    "gmt_offset": "7200",
+    "gmt_offset_name": "UTC+02:00",
+    "abbreviation": "IST",
+    "tz_name": "Israel Standard Time",
+    "created_at": "2022-05-16 11:08:06",
+    "updated_at": "2022-05-16 11:08:06"
+  },
+  {
+    "id": "195",
+    "name": "Europe - Rome",
+    "gmt_offset": "3600",
+    "gmt_offset_name": "UTC+01:00",
+    "abbreviation": "CET",
+    "tz_name": "Central European Time",
+    "created_at": "2022-05-16 11:08:08",
+    "updated_at": "2022-05-16 11:08:08"
+  },
+  {
+    "id": "196",
+    "name": "America - Jamaica",
+    "gmt_offset": "-18000",
+    "gmt_offset_name": "UTC-05:00",
+    "abbreviation": "EST",
+    "tz_name": "Eastern Standard Time (North America",
+    "created_at": "2022-05-16 11:08:09",
+    "updated_at": "2022-05-16 11:08:09"
+  },
+  {
+    "id": "197",
+    "name": "Asia - Tokyo",
+    "gmt_offset": "32400",
+    "gmt_offset_name": "UTC+09:00",
+    "abbreviation": "JST",
+    "tz_name": "Japan Standard Time",
+    "created_at": "2022-05-16 11:08:11",
+    "updated_at": "2022-05-16 11:08:11"
+  },
+  {
+    "id": "198",
+    "name": "Europe - Jersey",
+    "gmt_offset": "0",
+    "gmt_offset_name": "UTC±00",
+    "abbreviation": "GMT",
+    "tz_name": "Greenwich Mean Time",
+    "created_at": "2022-05-16 11:08:12",
+    "updated_at": "2022-05-16 11:08:12"
+  },
+  {
+    "id": "199",
+    "name": "Asia - Amman",
+    "gmt_offset": "7200",
+    "gmt_offset_name": "UTC+02:00",
+    "abbreviation": "EET",
+    "tz_name": "Eastern European Time",
+    "created_at": "2022-05-16 11:08:14",
+    "updated_at": "2022-05-16 11:08:14"
+  },
+  {
+    "id": "200",
+    "name": "Asia - Almaty",
+    "gmt_offset": "21600",
+    "gmt_offset_name": "UTC+06:00",
+    "abbreviation": "ALMT",
+    "tz_name": "Alma-Ata Time1",
+    "created_at": "2022-05-16 11:08:15",
+    "updated_at": "2022-05-16 11:08:15"
+  },
+  {
+    "id": "201",
+    "name": "Asia - Aqtau",
+    "gmt_offset": "18000",
+    "gmt_offset_name": "UTC+05:00",
+    "abbreviation": "AQTT",
+    "tz_name": "Aqtobe Time",
+    "created_at": "2022-05-16 11:08:15",
+    "updated_at": "2022-05-16 11:08:15"
+  },
+  {
+    "id": "202",
+    "name": "Asia - Aqtobe",
+    "gmt_offset": "18000",
+    "gmt_offset_name": "UTC+05:00",
+    "abbreviation": "AQTT",
+    "tz_name": "Aqtobe Time",
+    "created_at": "2022-05-16 11:08:15",
+    "updated_at": "2022-05-16 11:08:15"
+  },
+  {
+    "id": "203",
+    "name": "Asia - Atyrau",
+    "gmt_offset": "18000",
+    "gmt_offset_name": "UTC+05:00",
+    "abbreviation": "MSD+1",
+    "tz_name": "Moscow Daylight Time+1",
+    "created_at": "2022-05-16 11:08:15",
+    "updated_at": "2022-05-16 11:08:15"
+  },
+  {
+    "id": "204",
+    "name": "Asia - Oral",
+    "gmt_offset": "18000",
+    "gmt_offset_name": "UTC+05:00",
+    "abbreviation": "ORAT",
+    "tz_name": "Oral Time",
+    "created_at": "2022-05-16 11:08:15",
+    "updated_at": "2022-05-16 11:08:15"
+  },
+  {
+    "id": "205",
+    "name": "Asia - Qostanay",
+    "gmt_offset": "21600",
+    "gmt_offset_name": "UTC+06:00",
+    "abbreviation": "QYZST",
+    "tz_name": "Qyzylorda Summer Time",
+    "created_at": "2022-05-16 11:08:15",
+    "updated_at": "2022-05-16 11:08:15"
+  },
+  {
+    "id": "206",
+    "name": "Asia - Qyzylorda",
+    "gmt_offset": "18000",
+    "gmt_offset_name": "UTC+05:00",
+    "abbreviation": "QYZT",
+    "tz_name": "Qyzylorda Summer Time",
+    "created_at": "2022-05-16 11:08:15",
+    "updated_at": "2022-05-16 11:08:15"
+  },
+  {
+    "id": "207",
+    "name": "Africa - Nairobi",
+    "gmt_offset": "10800",
+    "gmt_offset_name": "UTC+03:00",
+    "abbreviation": "EAT",
+    "tz_name": "East Africa Time",
+    "created_at": "2022-05-16 11:08:16",
+    "updated_at": "2022-05-16 11:08:16"
+  },
+  {
+    "id": "208",
+    "name": "Pacific - Enderbury",
+    "gmt_offset": "46800",
+    "gmt_offset_name": "UTC+13:00",
+    "abbreviation": "PHOT",
+    "tz_name": "Phoenix Island Time",
+    "created_at": "2022-05-16 11:08:18",
+    "updated_at": "2022-05-16 11:08:18"
+  },
+  {
+    "id": "209",
+    "name": "Pacific - Kiritimati",
+    "gmt_offset": "50400",
+    "gmt_offset_name": "UTC+14:00",
+    "abbreviation": "LINT",
+    "tz_name": "Line Islands Time",
+    "created_at": "2022-05-16 11:08:18",
+    "updated_at": "2022-05-16 11:08:18"
+  },
+  {
+    "id": "210",
+    "name": "Pacific - Tarawa",
+    "gmt_offset": "43200",
+    "gmt_offset_name": "UTC+12:00",
+    "abbreviation": "GILT",
+    "tz_name": "Gilbert Island Time",
+    "created_at": "2022-05-16 11:08:18",
+    "updated_at": "2022-05-16 11:08:18"
+  },
+  {
+    "id": "211",
+    "name": "Europe - Belgrade",
+    "gmt_offset": "3600",
+    "gmt_offset_name": "UTC+01:00",
+    "abbreviation": "CET",
+    "tz_name": "Central European Time",
+    "created_at": "2022-05-16 11:08:19",
+    "updated_at": "2022-05-16 11:08:19"
+  },
+  {
+    "id": "212",
+    "name": "Asia - Kuwait",
+    "gmt_offset": "10800",
+    "gmt_offset_name": "UTC+03:00",
+    "abbreviation": "AST",
+    "tz_name": "Arabia Standard Time",
+    "created_at": "2022-05-16 11:08:21",
+    "updated_at": "2022-05-16 11:08:21"
+  },
+  {
+    "id": "213",
+    "name": "Asia - Bishkek",
+    "gmt_offset": "21600",
+    "gmt_offset_name": "UTC+06:00",
+    "abbreviation": "KGT",
+    "tz_name": "Kyrgyzstan Time",
+    "created_at": "2022-05-16 11:08:22",
+    "updated_at": "2022-05-16 11:08:22"
+  },
+  {
+    "id": "214",
+    "name": "Asia - Vientiane",
+    "gmt_offset": "25200",
+    "gmt_offset_name": "UTC+07:00",
+    "abbreviation": "ICT",
+    "tz_name": "Indochina Time",
+    "created_at": "2022-05-16 11:08:24",
+    "updated_at": "2022-05-16 11:08:24"
+  },
+  {
+    "id": "215",
+    "name": "Europe - Riga",
+    "gmt_offset": "7200",
+    "gmt_offset_name": "UTC+02:00",
+    "abbreviation": "EET",
+    "tz_name": "Eastern European Time",
+    "created_at": "2022-05-16 11:08:25",
+    "updated_at": "2022-05-16 11:08:25"
+  },
+  {
+    "id": "216",
+    "name": "Asia - Beirut",
+    "gmt_offset": "7200",
+    "gmt_offset_name": "UTC+02:00",
+    "abbreviation": "EET",
+    "tz_name": "Eastern European Time",
+    "created_at": "2022-05-16 11:08:27",
+    "updated_at": "2022-05-16 11:08:27"
+  },
+  {
+    "id": "217",
+    "name": "Africa - Maseru",
+    "gmt_offset": "7200",
+    "gmt_offset_name": "UTC+02:00",
+    "abbreviation": "SAST",
+    "tz_name": "South African Standard Time",
+    "created_at": "2022-05-16 11:08:28",
+    "updated_at": "2022-05-16 11:08:28"
+  },
+  {
+    "id": "218",
+    "name": "Africa - Monrovia",
+    "gmt_offset": "0",
+    "gmt_offset_name": "UTC±00",
+    "abbreviation": "GMT",
+    "tz_name": "Greenwich Mean Time",
+    "created_at": "2022-05-16 11:08:29",
+    "updated_at": "2022-05-16 11:08:29"
+  },
+  {
+    "id": "219",
+    "name": "Africa - Tripoli",
+    "gmt_offset": "7200",
+    "gmt_offset_name": "UTC+02:00",
+    "abbreviation": "EET",
+    "tz_name": "Eastern European Time",
+    "created_at": "2022-05-16 11:08:31",
+    "updated_at": "2022-05-16 11:08:31"
+  },
+  {
+    "id": "220",
+    "name": "Europe - Vaduz",
+    "gmt_offset": "3600",
+    "gmt_offset_name": "UTC+01:00",
+    "abbreviation": "CET",
+    "tz_name": "Central European Time",
+    "created_at": "2022-05-16 11:08:32",
+    "updated_at": "2022-05-16 11:08:32"
+  },
+  {
+    "id": "221",
+    "name": "Europe - Vilnius",
+    "gmt_offset": "7200",
+    "gmt_offset_name": "UTC+02:00",
+    "abbreviation": "EET",
+    "tz_name": "Eastern European Time",
+    "created_at": "2022-05-16 11:08:34",
+    "updated_at": "2022-05-16 11:08:34"
+  },
+  {
+    "id": "222",
+    "name": "Europe - Luxembourg",
+    "gmt_offset": "3600",
+    "gmt_offset_name": "UTC+01:00",
+    "abbreviation": "CET",
+    "tz_name": "Central European Time",
+    "created_at": "2022-05-16 11:08:35",
+    "updated_at": "2022-05-16 11:08:35"
+  },
+  {
+    "id": "223",
+    "name": "Asia - Macau",
+    "gmt_offset": "28800",
+    "gmt_offset_name": "UTC+08:00",
+    "abbreviation": "CST",
+    "tz_name": "China Standard Time",
+    "created_at": "2022-05-16 11:08:37",
+    "updated_at": "2022-05-16 11:08:37"
+  },
+  {
+    "id": "224",
+    "name": "Europe - Skopje",
+    "gmt_offset": "3600",
+    "gmt_offset_name": "UTC+01:00",
+    "abbreviation": "CET",
+    "tz_name": "Central European Time",
+    "created_at": "2022-05-16 11:08:38",
+    "updated_at": "2022-05-16 11:08:38"
+  },
+  {
+    "id": "225",
+    "name": "Indian - Antananarivo",
+    "gmt_offset": "10800",
+    "gmt_offset_name": "UTC+03:00",
+    "abbreviation": "EAT",
+    "tz_name": "East Africa Time",
+    "created_at": "2022-05-16 11:08:40",
+    "updated_at": "2022-05-16 11:08:40"
+  },
+  {
+    "id": "226",
+    "name": "Africa - Blantyre",
+    "gmt_offset": "7200",
+    "gmt_offset_name": "UTC+02:00",
+    "abbreviation": "CAT",
+    "tz_name": "Central Africa Time",
+    "created_at": "2022-05-16 11:08:41",
+    "updated_at": "2022-05-16 11:08:41"
+  },
+  {
+    "id": "227",
+    "name": "Asia - Kuala_Lumpur",
+    "gmt_offset": "28800",
+    "gmt_offset_name": "UTC+08:00",
+    "abbreviation": "MYT",
+    "tz_name": "Malaysia Time",
+    "created_at": "2022-05-16 11:08:43",
+    "updated_at": "2022-05-16 11:08:43"
+  },
+  {
+    "id": "228",
+    "name": "Asia - Kuching",
+    "gmt_offset": "28800",
+    "gmt_offset_name": "UTC+08:00",
+    "abbreviation": "MYT",
+    "tz_name": "Malaysia Time",
+    "created_at": "2022-05-16 11:08:43",
+    "updated_at": "2022-05-16 11:08:43"
+  },
+  {
+    "id": "229",
+    "name": "Indian - Maldives",
+    "gmt_offset": "18000",
+    "gmt_offset_name": "UTC+05:00",
+    "abbreviation": "MVT",
+    "tz_name": "Maldives Time",
+    "created_at": "2022-05-16 11:08:45",
+    "updated_at": "2022-05-16 11:08:45"
+  },
+  {
+    "id": "230",
+    "name": "Africa - Bamako",
+    "gmt_offset": "0",
+    "gmt_offset_name": "UTC±00",
+    "abbreviation": "GMT",
+    "tz_name": "Greenwich Mean Time",
+    "created_at": "2022-05-16 11:08:46",
+    "updated_at": "2022-05-16 11:08:46"
+  },
+  {
+    "id": "231",
+    "name": "Europe - Malta",
+    "gmt_offset": "3600",
+    "gmt_offset_name": "UTC+01:00",
+    "abbreviation": "CET",
+    "tz_name": "Central European Time",
+    "created_at": "2022-05-16 11:08:48",
+    "updated_at": "2022-05-16 11:08:48"
+  },
+  {
+    "id": "232",
+    "name": "Europe - Isle_of_Man",
+    "gmt_offset": "0",
+    "gmt_offset_name": "UTC±00",
+    "abbreviation": "GMT",
+    "tz_name": "Greenwich Mean Time",
+    "created_at": "2022-05-16 11:08:49",
+    "updated_at": "2022-05-16 11:08:49"
+  },
+  {
+    "id": "233",
+    "name": "Pacific - Kwajalein",
+    "gmt_offset": "43200",
+    "gmt_offset_name": "UTC+12:00",
+    "abbreviation": "MHT",
+    "tz_name": "Marshall Islands Time",
+    "created_at": "2022-05-16 11:08:51",
+    "updated_at": "2022-05-16 11:08:51"
+  },
+  {
+    "id": "234",
+    "name": "Pacific - Majuro",
+    "gmt_offset": "43200",
+    "gmt_offset_name": "UTC+12:00",
+    "abbreviation": "MHT",
+    "tz_name": "Marshall Islands Time",
+    "created_at": "2022-05-16 11:08:51",
+    "updated_at": "2022-05-16 11:08:51"
+  },
+  {
+    "id": "235",
+    "name": "America - Martinique",
+    "gmt_offset": "-14400",
+    "gmt_offset_name": "UTC-04:00",
+    "abbreviation": "AST",
+    "tz_name": "Atlantic Standard Time",
+    "created_at": "2022-05-16 11:08:52",
+    "updated_at": "2022-05-16 11:08:52"
+  },
+  {
+    "id": "236",
+    "name": "Africa - Nouakchott",
+    "gmt_offset": "0",
+    "gmt_offset_name": "UTC±00",
+    "abbreviation": "GMT",
+    "tz_name": "Greenwich Mean Time",
+    "created_at": "2022-05-16 11:08:54",
+    "updated_at": "2022-05-16 11:08:54"
+  },
+  {
+    "id": "237",
+    "name": "Indian - Mauritius",
+    "gmt_offset": "14400",
+    "gmt_offset_name": "UTC+04:00",
+    "abbreviation": "MUT",
+    "tz_name": "Mauritius Time",
+    "created_at": "2022-05-16 11:08:56",
+    "updated_at": "2022-05-16 11:08:56"
+  },
+  {
+    "id": "238",
+    "name": "Indian - Mayotte",
+    "gmt_offset": "10800",
+    "gmt_offset_name": "UTC+03:00",
+    "abbreviation": "EAT",
+    "tz_name": "East Africa Time",
+    "created_at": "2022-05-16 11:08:57",
+    "updated_at": "2022-05-16 11:08:57"
+  },
+  {
+    "id": "239",
+    "name": "America - Bahia_Banderas",
+    "gmt_offset": "-21600",
+    "gmt_offset_name": "UTC-06:00",
+    "abbreviation": "CST",
+    "tz_name": "Central Standard Time (North America",
+    "created_at": "2022-05-16 11:08:59",
+    "updated_at": "2022-05-16 11:08:59"
+  },
+  {
+    "id": "240",
+    "name": "America - Cancun",
+    "gmt_offset": "-18000",
+    "gmt_offset_name": "UTC-05:00",
+    "abbreviation": "EST",
+    "tz_name": "Eastern Standard Time (North America",
+    "created_at": "2022-05-16 11:08:59",
+    "updated_at": "2022-05-16 11:08:59"
+  },
+  {
+    "id": "241",
+    "name": "America - Chihuahua",
+    "gmt_offset": "-25200",
+    "gmt_offset_name": "UTC-07:00",
+    "abbreviation": "MST",
+    "tz_name": "Mountain Standard Time (North America",
+    "created_at": "2022-05-16 11:08:59",
+    "updated_at": "2022-05-16 11:08:59"
+  },
+  {
+    "id": "242",
+    "name": "America - Hermosillo",
+    "gmt_offset": "-25200",
+    "gmt_offset_name": "UTC-07:00",
+    "abbreviation": "MST",
+    "tz_name": "Mountain Standard Time (North America",
+    "created_at": "2022-05-16 11:08:59",
+    "updated_at": "2022-05-16 11:08:59"
+  },
+  {
+    "id": "243",
+    "name": "America - Matamoros",
+    "gmt_offset": "-21600",
+    "gmt_offset_name": "UTC-06:00",
+    "abbreviation": "CST",
+    "tz_name": "Central Standard Time (North America",
+    "created_at": "2022-05-16 11:08:59",
+    "updated_at": "2022-05-16 11:08:59"
+  },
+  {
+    "id": "244",
+    "name": "America - Mazatlan",
+    "gmt_offset": "-25200",
+    "gmt_offset_name": "UTC-07:00",
+    "abbreviation": "MST",
+    "tz_name": "Mountain Standard Time (North America",
+    "created_at": "2022-05-16 11:08:59",
+    "updated_at": "2022-05-16 11:08:59"
+  },
+  {
+    "id": "245",
+    "name": "America - Merida",
+    "gmt_offset": "-21600",
+    "gmt_offset_name": "UTC-06:00",
+    "abbreviation": "CST",
+    "tz_name": "Central Standard Time (North America",
+    "created_at": "2022-05-16 11:08:59",
+    "updated_at": "2022-05-16 11:08:59"
+  },
+  {
+    "id": "246",
+    "name": "America - Mexico_City",
+    "gmt_offset": "-21600",
+    "gmt_offset_name": "UTC-06:00",
+    "abbreviation": "CST",
+    "tz_name": "Central Standard Time (North America",
+    "created_at": "2022-05-16 11:08:59",
+    "updated_at": "2022-05-16 11:08:59"
+  },
+  {
+    "id": "247",
+    "name": "America - Monterrey",
+    "gmt_offset": "-21600",
+    "gmt_offset_name": "UTC-06:00",
+    "abbreviation": "CST",
+    "tz_name": "Central Standard Time (North America",
+    "created_at": "2022-05-16 11:08:59",
+    "updated_at": "2022-05-16 11:08:59"
+  },
+  {
+    "id": "248",
+    "name": "America - Ojinaga",
+    "gmt_offset": "-25200",
+    "gmt_offset_name": "UTC-07:00",
+    "abbreviation": "MST",
+    "tz_name": "Mountain Standard Time (North America",
+    "created_at": "2022-05-16 11:08:59",
+    "updated_at": "2022-05-16 11:08:59"
+  },
+  {
+    "id": "249",
+    "name": "America - Tijuana",
+    "gmt_offset": "-28800",
+    "gmt_offset_name": "UTC-08:00",
+    "abbreviation": "PST",
+    "tz_name": "Pacific Standard Time (North America",
+    "created_at": "2022-05-16 11:08:59",
+    "updated_at": "2022-05-16 11:08:59"
+  },
+  {
+    "id": "250",
+    "name": "Pacific - Chuuk",
+    "gmt_offset": "36000",
+    "gmt_offset_name": "UTC+10:00",
+    "abbreviation": "CHUT",
+    "tz_name": "Chuuk Time",
+    "created_at": "2022-05-16 11:09:01",
+    "updated_at": "2022-05-16 11:09:01"
+  },
+  {
+    "id": "251",
+    "name": "Pacific - Kosrae",
+    "gmt_offset": "39600",
+    "gmt_offset_name": "UTC+11:00",
+    "abbreviation": "KOST",
+    "tz_name": "Kosrae Time",
+    "created_at": "2022-05-16 11:09:01",
+    "updated_at": "2022-05-16 11:09:01"
+  },
+  {
+    "id": "252",
+    "name": "Pacific - Pohnpei",
+    "gmt_offset": "39600",
+    "gmt_offset_name": "UTC+11:00",
+    "abbreviation": "PONT",
+    "tz_name": "Pohnpei Standard Time",
+    "created_at": "2022-05-16 11:09:01",
+    "updated_at": "2022-05-16 11:09:01"
+  },
+  {
+    "id": "253",
+    "name": "Europe - Chisinau",
+    "gmt_offset": "7200",
+    "gmt_offset_name": "UTC+02:00",
+    "abbreviation": "EET",
+    "tz_name": "Eastern European Time",
+    "created_at": "2022-05-16 11:09:02",
+    "updated_at": "2022-05-16 11:09:02"
+  },
+  {
+    "id": "254",
+    "name": "Europe - Monaco",
+    "gmt_offset": "3600",
+    "gmt_offset_name": "UTC+01:00",
+    "abbreviation": "CET",
+    "tz_name": "Central European Time",
+    "created_at": "2022-05-16 11:09:04",
+    "updated_at": "2022-05-16 11:09:04"
+  },
+  {
+    "id": "255",
+    "name": "Asia - Choibalsan",
+    "gmt_offset": "28800",
+    "gmt_offset_name": "UTC+08:00",
+    "abbreviation": "CHOT",
+    "tz_name": "Choibalsan Standard Time",
+    "created_at": "2022-05-16 11:09:06",
+    "updated_at": "2022-05-16 11:09:06"
+  },
+  {
+    "id": "256",
+    "name": "Asia - Hovd",
+    "gmt_offset": "25200",
+    "gmt_offset_name": "UTC+07:00",
+    "abbreviation": "HOVT",
+    "tz_name": "Hovd Time",
+    "created_at": "2022-05-16 11:09:06",
+    "updated_at": "2022-05-16 11:09:06"
+  },
+  {
+    "id": "257",
+    "name": "Asia - Ulaanbaatar",
+    "gmt_offset": "28800",
+    "gmt_offset_name": "UTC+08:00",
+    "abbreviation": "ULAT",
+    "tz_name": "Ulaanbaatar Standard Time",
+    "created_at": "2022-05-16 11:09:06",
+    "updated_at": "2022-05-16 11:09:06"
+  },
+  {
+    "id": "258",
+    "name": "Europe - Podgorica",
+    "gmt_offset": "3600",
+    "gmt_offset_name": "UTC+01:00",
+    "abbreviation": "CET",
+    "tz_name": "Central European Time",
+    "created_at": "2022-05-16 11:09:08",
+    "updated_at": "2022-05-16 11:09:08"
+  },
+  {
+    "id": "259",
+    "name": "America - Montserrat",
+    "gmt_offset": "-14400",
+    "gmt_offset_name": "UTC-04:00",
+    "abbreviation": "AST",
+    "tz_name": "Atlantic Standard Time",
+    "created_at": "2022-05-16 11:09:10",
+    "updated_at": "2022-05-16 11:09:10"
+  },
+  {
+    "id": "260",
+    "name": "Africa - Casablanca",
+    "gmt_offset": "3600",
+    "gmt_offset_name": "UTC+01:00",
+    "abbreviation": "WEST",
+    "tz_name": "Western European Summer Time",
+    "created_at": "2022-05-16 11:09:11",
+    "updated_at": "2022-05-16 11:09:11"
+  },
+  {
+    "id": "261",
+    "name": "Africa - Maputo",
+    "gmt_offset": "7200",
+    "gmt_offset_name": "UTC+02:00",
+    "abbreviation": "CAT",
+    "tz_name": "Central Africa Time",
+    "created_at": "2022-05-16 11:09:13",
+    "updated_at": "2022-05-16 11:09:13"
+  },
+  {
+    "id": "262",
+    "name": "Asia - Yangon",
+    "gmt_offset": "23400",
+    "gmt_offset_name": "UTC+06:30",
+    "abbreviation": "MMT",
+    "tz_name": "Myanmar Standard Time",
+    "created_at": "2022-05-16 11:09:15",
+    "updated_at": "2022-05-16 11:09:15"
+  },
+  {
+    "id": "263",
+    "name": "Africa - Windhoek",
+    "gmt_offset": "7200",
+    "gmt_offset_name": "UTC+02:00",
+    "abbreviation": "WAST",
+    "tz_name": "West Africa Summer Time",
+    "created_at": "2022-05-16 11:09:17",
+    "updated_at": "2022-05-16 11:09:17"
+  },
+  {
+    "id": "264",
+    "name": "Pacific - Nauru",
+    "gmt_offset": "43200",
+    "gmt_offset_name": "UTC+12:00",
+    "abbreviation": "NRT",
+    "tz_name": "Nauru Time",
+    "created_at": "2022-05-16 11:09:18",
+    "updated_at": "2022-05-16 11:09:18"
+  },
+  {
+    "id": "265",
+    "name": "Asia - Kathmandu",
+    "gmt_offset": "20700",
+    "gmt_offset_name": "UTC+05:45",
+    "abbreviation": "NPT",
+    "tz_name": "Nepal Time",
+    "created_at": "2022-05-16 11:09:20",
+    "updated_at": "2022-05-16 11:09:20"
+  },
+  {
+    "id": "266",
+    "name": "Europe - Amsterdam",
+    "gmt_offset": "3600",
+    "gmt_offset_name": "UTC+01:00",
+    "abbreviation": "CET",
+    "tz_name": "Central European Time",
+    "created_at": "2022-05-16 11:09:22",
+    "updated_at": "2022-05-16 11:09:22"
+  },
+  {
+    "id": "267",
+    "name": "Pacific - Noumea",
+    "gmt_offset": "39600",
+    "gmt_offset_name": "UTC+11:00",
+    "abbreviation": "NCT",
+    "tz_name": "New Caledonia Time",
+    "created_at": "2022-05-16 11:09:24",
+    "updated_at": "2022-05-16 11:09:24"
+  },
+  {
+    "id": "268",
+    "name": "Pacific - Auckland",
+    "gmt_offset": "46800",
+    "gmt_offset_name": "UTC+13:00",
+    "abbreviation": "NZDT",
+    "tz_name": "New Zealand Daylight Time",
+    "created_at": "2022-05-16 11:09:26",
+    "updated_at": "2022-05-16 11:09:26"
+  },
+  {
+    "id": "269",
+    "name": "Pacific - Chatham",
+    "gmt_offset": "49500",
+    "gmt_offset_name": "UTC+13:45",
+    "abbreviation": "CHAST",
+    "tz_name": "Chatham Standard Time",
+    "created_at": "2022-05-16 11:09:26",
+    "updated_at": "2022-05-16 11:09:26"
+  },
+  {
+    "id": "270",
+    "name": "America - Managua",
+    "gmt_offset": "-21600",
+    "gmt_offset_name": "UTC-06:00",
+    "abbreviation": "CST",
+    "tz_name": "Central Standard Time (North America",
+    "created_at": "2022-05-16 11:09:27",
+    "updated_at": "2022-05-16 11:09:27"
+  },
+  {
+    "id": "271",
+    "name": "Africa - Niamey",
+    "gmt_offset": "3600",
+    "gmt_offset_name": "UTC+01:00",
+    "abbreviation": "WAT",
+    "tz_name": "West Africa Time",
+    "created_at": "2022-05-16 11:09:29",
+    "updated_at": "2022-05-16 11:09:29"
+  },
+  {
+    "id": "272",
+    "name": "Africa - Lagos",
+    "gmt_offset": "3600",
+    "gmt_offset_name": "UTC+01:00",
+    "abbreviation": "WAT",
+    "tz_name": "West Africa Time",
+    "created_at": "2022-05-16 11:09:31",
+    "updated_at": "2022-05-16 11:09:31"
+  },
+  {
+    "id": "273",
+    "name": "Pacific - Niue",
+    "gmt_offset": "-39600",
+    "gmt_offset_name": "UTC-11:00",
+    "abbreviation": "NUT",
+    "tz_name": "Niue Time",
+    "created_at": "2022-05-16 11:09:33",
+    "updated_at": "2022-05-16 11:09:33"
+  },
+  {
+    "id": "274",
+    "name": "Pacific - Norfolk",
+    "gmt_offset": "43200",
+    "gmt_offset_name": "UTC+12:00",
+    "abbreviation": "NFT",
+    "tz_name": "Norfolk Time",
+    "created_at": "2022-05-16 11:09:35",
+    "updated_at": "2022-05-16 11:09:35"
+  },
+  {
+    "id": "275",
+    "name": "Asia - Pyongyang",
+    "gmt_offset": "32400",
+    "gmt_offset_name": "UTC+09:00",
+    "abbreviation": "KST",
+    "tz_name": "Korea Standard Time",
+    "created_at": "2022-05-16 11:09:37",
+    "updated_at": "2022-05-16 11:09:37"
+  },
+  {
+    "id": "276",
+    "name": "Pacific - Saipan",
+    "gmt_offset": "36000",
+    "gmt_offset_name": "UTC+10:00",
+    "abbreviation": "ChST",
+    "tz_name": "Chamorro Standard Time",
+    "created_at": "2022-05-16 11:09:39",
+    "updated_at": "2022-05-16 11:09:39"
+  },
+  {
+    "id": "277",
+    "name": "Asia - Muscat",
+    "gmt_offset": "14400",
+    "gmt_offset_name": "UTC+04:00",
+    "abbreviation": "GST",
+    "tz_name": "Gulf Standard Time",
+    "created_at": "2022-05-16 11:09:43",
+    "updated_at": "2022-05-16 11:09:43"
+  },
+  {
+    "id": "278",
+    "name": "Asia - Karachi",
+    "gmt_offset": "18000",
+    "gmt_offset_name": "UTC+05:00",
+    "abbreviation": "PKT",
+    "tz_name": "Pakistan Standard Time",
+    "created_at": "2022-05-16 11:09:45",
+    "updated_at": "2022-05-16 11:09:45"
+  },
+  {
+    "id": "279",
+    "name": "Pacific - Palau",
+    "gmt_offset": "32400",
+    "gmt_offset_name": "UTC+09:00",
+    "abbreviation": "PWT",
+    "tz_name": "Palau Time",
+    "created_at": "2022-05-16 11:09:47",
+    "updated_at": "2022-05-16 11:09:47"
+  },
+  {
+    "id": "280",
+    "name": "Asia - Gaza",
+    "gmt_offset": "7200",
+    "gmt_offset_name": "UTC+02:00",
+    "abbreviation": "EET",
+    "tz_name": "Eastern European Time",
+    "created_at": "2022-05-16 11:09:49",
+    "updated_at": "2022-05-16 11:09:49"
+  },
+  {
+    "id": "281",
+    "name": "Asia - Hebron",
+    "gmt_offset": "7200",
+    "gmt_offset_name": "UTC+02:00",
+    "abbreviation": "EET",
+    "tz_name": "Eastern European Time",
+    "created_at": "2022-05-16 11:09:49",
+    "updated_at": "2022-05-16 11:09:49"
+  },
+  {
+    "id": "282",
+    "name": "America - Panama",
+    "gmt_offset": "-18000",
+    "gmt_offset_name": "UTC-05:00",
+    "abbreviation": "EST",
+    "tz_name": "Eastern Standard Time (North America",
+    "created_at": "2022-05-16 11:09:51",
+    "updated_at": "2022-05-16 11:09:51"
+  },
+  {
+    "id": "283",
+    "name": "Pacific - Bougainville",
+    "gmt_offset": "39600",
+    "gmt_offset_name": "UTC+11:00",
+    "abbreviation": "BST",
+    "tz_name": "Bougainville Standard Time6",
+    "created_at": "2022-05-16 11:09:53",
+    "updated_at": "2022-05-16 11:09:53"
+  },
+  {
+    "id": "284",
+    "name": "Pacific - Port_Moresby",
+    "gmt_offset": "36000",
+    "gmt_offset_name": "UTC+10:00",
+    "abbreviation": "PGT",
+    "tz_name": "Papua New Guinea Time",
+    "created_at": "2022-05-16 11:09:53",
+    "updated_at": "2022-05-16 11:09:53"
+  },
+  {
+    "id": "285",
+    "name": "America - Asuncion",
+    "gmt_offset": "-10800",
+    "gmt_offset_name": "UTC-03:00",
+    "abbreviation": "PYST",
+    "tz_name": "Paraguay Summer Time",
+    "created_at": "2022-05-16 11:09:55",
+    "updated_at": "2022-05-16 11:09:55"
+  },
+  {
+    "id": "286",
+    "name": "America - Lima",
+    "gmt_offset": "-18000",
+    "gmt_offset_name": "UTC-05:00",
+    "abbreviation": "PET",
+    "tz_name": "Peru Time",
+    "created_at": "2022-05-16 11:09:58",
+    "updated_at": "2022-05-16 11:09:58"
+  },
+  {
+    "id": "287",
+    "name": "Asia - Manila",
+    "gmt_offset": "28800",
+    "gmt_offset_name": "UTC+08:00",
+    "abbreviation": "PHT",
+    "tz_name": "Philippine Time",
+    "created_at": "2022-05-16 11:10:00",
+    "updated_at": "2022-05-16 11:10:00"
+  },
+  {
+    "id": "288",
+    "name": "Pacific - Pitcairn",
+    "gmt_offset": "-28800",
+    "gmt_offset_name": "UTC-08:00",
+    "abbreviation": "PST",
+    "tz_name": "Pacific Standard Time (North America",
+    "created_at": "2022-05-16 11:10:02",
+    "updated_at": "2022-05-16 11:10:02"
+  },
+  {
+    "id": "289",
+    "name": "Europe - Warsaw",
+    "gmt_offset": "3600",
+    "gmt_offset_name": "UTC+01:00",
+    "abbreviation": "CET",
+    "tz_name": "Central European Time",
+    "created_at": "2022-05-16 11:10:04",
+    "updated_at": "2022-05-16 11:10:04"
+  },
+  {
+    "id": "290",
+    "name": "Atlantic - Azores",
+    "gmt_offset": "-3600",
+    "gmt_offset_name": "UTC-01:00",
+    "abbreviation": "AZOT",
+    "tz_name": "Azores Standard Time",
+    "created_at": "2022-05-16 11:10:06",
+    "updated_at": "2022-05-16 11:10:06"
+  },
+  {
+    "id": "291",
+    "name": "Atlantic - Madeira",
+    "gmt_offset": "0",
+    "gmt_offset_name": "UTC±00",
+    "abbreviation": "WET",
+    "tz_name": "Western European Time",
+    "created_at": "2022-05-16 11:10:06",
+    "updated_at": "2022-05-16 11:10:06"
+  },
+  {
+    "id": "292",
+    "name": "Europe - Lisbon",
+    "gmt_offset": "0",
+    "gmt_offset_name": "UTC±00",
+    "abbreviation": "WET",
+    "tz_name": "Western European Time",
+    "created_at": "2022-05-16 11:10:06",
+    "updated_at": "2022-05-16 11:10:06"
+  },
+  {
+    "id": "293",
+    "name": "America - Puerto_Rico",
+    "gmt_offset": "-14400",
+    "gmt_offset_name": "UTC-04:00",
+    "abbreviation": "AST",
+    "tz_name": "Atlantic Standard Time",
+    "created_at": "2022-05-16 11:10:08",
+    "updated_at": "2022-05-16 11:10:08"
+  },
+  {
+    "id": "294",
+    "name": "Asia - Qatar",
+    "gmt_offset": "10800",
+    "gmt_offset_name": "UTC+03:00",
+    "abbreviation": "AST",
+    "tz_name": "Arabia Standard Time",
+    "created_at": "2022-05-16 11:10:10",
+    "updated_at": "2022-05-16 11:10:10"
+  },
+  {
+    "id": "295",
+    "name": "Indian - Reunion",
+    "gmt_offset": "14400",
+    "gmt_offset_name": "UTC+04:00",
+    "abbreviation": "RET",
+    "tz_name": "Réunion Time",
+    "created_at": "2022-05-16 11:10:12",
+    "updated_at": "2022-05-16 11:10:12"
+  },
+  {
+    "id": "296",
+    "name": "Europe - Bucharest",
+    "gmt_offset": "7200",
+    "gmt_offset_name": "UTC+02:00",
+    "abbreviation": "EET",
+    "tz_name": "Eastern European Time",
+    "created_at": "2022-05-16 11:10:14",
+    "updated_at": "2022-05-16 11:10:14"
+  },
+  {
+    "id": "297",
+    "name": "Asia - Anadyr",
+    "gmt_offset": "43200",
+    "gmt_offset_name": "UTC+12:00",
+    "abbreviation": "ANAT",
+    "tz_name": "Anadyr Time4",
+    "created_at": "2022-05-16 11:10:16",
+    "updated_at": "2022-05-16 11:10:16"
+  },
+  {
+    "id": "298",
+    "name": "Asia - Barnaul",
+    "gmt_offset": "25200",
+    "gmt_offset_name": "UTC+07:00",
+    "abbreviation": "KRAT",
+    "tz_name": "Krasnoyarsk Time",
+    "created_at": "2022-05-16 11:10:16",
+    "updated_at": "2022-05-16 11:10:16"
+  },
+  {
+    "id": "299",
+    "name": "Asia - Chita",
+    "gmt_offset": "32400",
+    "gmt_offset_name": "UTC+09:00",
+    "abbreviation": "YAKT",
+    "tz_name": "Yakutsk Time",
+    "created_at": "2022-05-16 11:10:16",
+    "updated_at": "2022-05-16 11:10:16"
+  },
+  {
+    "id": "300",
+    "name": "Asia - Irkutsk",
+    "gmt_offset": "28800",
+    "gmt_offset_name": "UTC+08:00",
+    "abbreviation": "IRKT",
+    "tz_name": "Irkutsk Time",
+    "created_at": "2022-05-16 11:10:16",
+    "updated_at": "2022-05-16 11:10:16"
+  },
+  {
+    "id": "301",
+    "name": "Asia - Kamchatka",
+    "gmt_offset": "43200",
+    "gmt_offset_name": "UTC+12:00",
+    "abbreviation": "PETT",
+    "tz_name": "Kamchatka Time",
+    "created_at": "2022-05-16 11:10:16",
+    "updated_at": "2022-05-16 11:10:16"
+  },
+  {
+    "id": "302",
+    "name": "Asia - Khandyga",
+    "gmt_offset": "32400",
+    "gmt_offset_name": "UTC+09:00",
+    "abbreviation": "YAKT",
+    "tz_name": "Yakutsk Time",
+    "created_at": "2022-05-16 11:10:16",
+    "updated_at": "2022-05-16 11:10:16"
+  },
+  {
+    "id": "303",
+    "name": "Asia - Krasnoyarsk",
+    "gmt_offset": "25200",
+    "gmt_offset_name": "UTC+07:00",
+    "abbreviation": "KRAT",
+    "tz_name": "Krasnoyarsk Time",
+    "created_at": "2022-05-16 11:10:16",
+    "updated_at": "2022-05-16 11:10:16"
+  },
+  {
+    "id": "304",
+    "name": "Asia - Magadan",
+    "gmt_offset": "39600",
+    "gmt_offset_name": "UTC+11:00",
+    "abbreviation": "MAGT",
+    "tz_name": "Magadan Time",
+    "created_at": "2022-05-16 11:10:16",
+    "updated_at": "2022-05-16 11:10:16"
+  },
+  {
+    "id": "305",
+    "name": "Asia - Novokuznetsk",
+    "gmt_offset": "25200",
+    "gmt_offset_name": "UTC+07:00",
+    "abbreviation": "KRAT",
+    "tz_name": "Krasnoyarsk Time",
+    "created_at": "2022-05-16 11:10:16",
+    "updated_at": "2022-05-16 11:10:16"
+  },
+  {
+    "id": "306",
+    "name": "Asia - Novosibirsk",
+    "gmt_offset": "25200",
+    "gmt_offset_name": "UTC+07:00",
+    "abbreviation": "NOVT",
+    "tz_name": "Novosibirsk Time",
+    "created_at": "2022-05-16 11:10:16",
+    "updated_at": "2022-05-16 11:10:16"
+  },
+  {
+    "id": "307",
+    "name": "Asia - Omsk",
+    "gmt_offset": "21600",
+    "gmt_offset_name": "UTC+06:00",
+    "abbreviation": "OMST",
+    "tz_name": "Omsk Time",
+    "created_at": "2022-05-16 11:10:16",
+    "updated_at": "2022-05-16 11:10:16"
+  },
+  {
+    "id": "308",
+    "name": "Asia - Sakhalin",
+    "gmt_offset": "39600",
+    "gmt_offset_name": "UTC+11:00",
+    "abbreviation": "SAKT",
+    "tz_name": "Sakhalin Island Time",
+    "created_at": "2022-05-16 11:10:16",
+    "updated_at": "2022-05-16 11:10:16"
+  },
+  {
+    "id": "309",
+    "name": "Asia - Srednekolymsk",
+    "gmt_offset": "39600",
+    "gmt_offset_name": "UTC+11:00",
+    "abbreviation": "SRET",
+    "tz_name": "Srednekolymsk Time",
+    "created_at": "2022-05-16 11:10:16",
+    "updated_at": "2022-05-16 11:10:16"
+  },
+  {
+    "id": "310",
+    "name": "Asia - Tomsk",
+    "gmt_offset": "25200",
+    "gmt_offset_name": "UTC+07:00",
+    "abbreviation": "MSD+3",
+    "tz_name": "Moscow Daylight Time+3",
+    "created_at": "2022-05-16 11:10:16",
+    "updated_at": "2022-05-16 11:10:16"
+  },
+  {
+    "id": "311",
+    "name": "Asia - Ust-Nera",
+    "gmt_offset": "36000",
+    "gmt_offset_name": "UTC+10:00",
+    "abbreviation": "VLAT",
+    "tz_name": "Vladivostok Time",
+    "created_at": "2022-05-16 11:10:16",
+    "updated_at": "2022-05-16 11:10:16"
+  },
+  {
+    "id": "312",
+    "name": "Asia - Vladivostok",
+    "gmt_offset": "36000",
+    "gmt_offset_name": "UTC+10:00",
+    "abbreviation": "VLAT",
+    "tz_name": "Vladivostok Time",
+    "created_at": "2022-05-16 11:10:16",
+    "updated_at": "2022-05-16 11:10:16"
+  },
+  {
+    "id": "313",
+    "name": "Asia - Yakutsk",
+    "gmt_offset": "32400",
+    "gmt_offset_name": "UTC+09:00",
+    "abbreviation": "YAKT",
+    "tz_name": "Yakutsk Time",
+    "created_at": "2022-05-16 11:10:16",
+    "updated_at": "2022-05-16 11:10:16"
+  },
+  {
+    "id": "314",
+    "name": "Asia - Yekaterinburg",
+    "gmt_offset": "18000",
+    "gmt_offset_name": "UTC+05:00",
+    "abbreviation": "YEKT",
+    "tz_name": "Yekaterinburg Time",
+    "created_at": "2022-05-16 11:10:16",
+    "updated_at": "2022-05-16 11:10:16"
+  },
+  {
+    "id": "315",
+    "name": "Europe - Astrakhan",
+    "gmt_offset": "14400",
+    "gmt_offset_name": "UTC+04:00",
+    "abbreviation": "SAMT",
+    "tz_name": "Samara Time",
+    "created_at": "2022-05-16 11:10:16",
+    "updated_at": "2022-05-16 11:10:16"
+  },
+  {
+    "id": "316",
+    "name": "Europe - Kaliningrad",
+    "gmt_offset": "7200",
+    "gmt_offset_name": "UTC+02:00",
+    "abbreviation": "EET",
+    "tz_name": "Eastern European Time",
+    "created_at": "2022-05-16 11:10:16",
+    "updated_at": "2022-05-16 11:10:16"
+  },
+  {
+    "id": "317",
+    "name": "Europe - Kirov",
+    "gmt_offset": "10800",
+    "gmt_offset_name": "UTC+03:00",
+    "abbreviation": "MSK",
+    "tz_name": "Moscow Time",
+    "created_at": "2022-05-16 11:10:16",
+    "updated_at": "2022-05-16 11:10:16"
+  },
+  {
+    "id": "318",
+    "name": "Europe - Moscow",
+    "gmt_offset": "10800",
+    "gmt_offset_name": "UTC+03:00",
+    "abbreviation": "MSK",
+    "tz_name": "Moscow Time",
+    "created_at": "2022-05-16 11:10:16",
+    "updated_at": "2022-05-16 11:10:16"
+  },
+  {
+    "id": "319",
+    "name": "Europe - Samara",
+    "gmt_offset": "14400",
+    "gmt_offset_name": "UTC+04:00",
+    "abbreviation": "SAMT",
+    "tz_name": "Samara Time",
+    "created_at": "2022-05-16 11:10:16",
+    "updated_at": "2022-05-16 11:10:16"
+  },
+  {
+    "id": "320",
+    "name": "Europe - Saratov",
+    "gmt_offset": "14400",
+    "gmt_offset_name": "UTC+04:00",
+    "abbreviation": "MSD",
+    "tz_name": "Moscow Daylight Time+4",
+    "created_at": "2022-05-16 11:10:16",
+    "updated_at": "2022-05-16 11:10:16"
+  },
+  {
+    "id": "321",
+    "name": "Europe - Ulyanovsk",
+    "gmt_offset": "14400",
+    "gmt_offset_name": "UTC+04:00",
+    "abbreviation": "SAMT",
+    "tz_name": "Samara Time",
+    "created_at": "2022-05-16 11:10:16",
+    "updated_at": "2022-05-16 11:10:16"
+  },
+  {
+    "id": "322",
+    "name": "Europe - Volgograd",
+    "gmt_offset": "14400",
+    "gmt_offset_name": "UTC+04:00",
+    "abbreviation": "MSK",
+    "tz_name": "Moscow Standard Time",
+    "created_at": "2022-05-16 11:10:16",
+    "updated_at": "2022-05-16 11:10:16"
+  },
+  {
+    "id": "323",
+    "name": "Africa - Kigali",
+    "gmt_offset": "7200",
+    "gmt_offset_name": "UTC+02:00",
+    "abbreviation": "CAT",
+    "tz_name": "Central Africa Time",
+    "created_at": "2022-05-16 11:10:18",
+    "updated_at": "2022-05-16 11:10:18"
+  },
+  {
+    "id": "324",
+    "name": "Atlantic - St_Helena",
+    "gmt_offset": "0",
+    "gmt_offset_name": "UTC±00",
+    "abbreviation": "GMT",
+    "tz_name": "Greenwich Mean Time",
+    "created_at": "2022-05-16 11:10:20",
+    "updated_at": "2022-05-16 11:10:20"
+  },
+  {
+    "id": "325",
+    "name": "America - St_Kitts",
+    "gmt_offset": "-14400",
+    "gmt_offset_name": "UTC-04:00",
+    "abbreviation": "AST",
+    "tz_name": "Atlantic Standard Time",
+    "created_at": "2022-05-16 11:10:22",
+    "updated_at": "2022-05-16 11:10:22"
+  },
+  {
+    "id": "326",
+    "name": "America - St_Lucia",
+    "gmt_offset": "-14400",
+    "gmt_offset_name": "UTC-04:00",
+    "abbreviation": "AST",
+    "tz_name": "Atlantic Standard Time",
+    "created_at": "2022-05-16 11:10:25",
+    "updated_at": "2022-05-16 11:10:25"
+  },
+  {
+    "id": "327",
+    "name": "America - Miquelon",
+    "gmt_offset": "-10800",
+    "gmt_offset_name": "UTC-03:00",
+    "abbreviation": "PMDT",
+    "tz_name": "Pierre & Miquelon Daylight Time",
+    "created_at": "2022-05-16 11:10:27",
+    "updated_at": "2022-05-16 11:10:27"
+  },
+  {
+    "id": "328",
+    "name": "America - St_Vincent",
+    "gmt_offset": "-14400",
+    "gmt_offset_name": "UTC-04:00",
+    "abbreviation": "AST",
+    "tz_name": "Atlantic Standard Time",
+    "created_at": "2022-05-16 11:10:29",
+    "updated_at": "2022-05-16 11:10:29"
+  },
+  {
+    "id": "329",
+    "name": "America - St_Barthelemy",
+    "gmt_offset": "-14400",
+    "gmt_offset_name": "UTC-04:00",
+    "abbreviation": "AST",
+    "tz_name": "Atlantic Standard Time",
+    "created_at": "2022-05-16 11:10:31",
+    "updated_at": "2022-05-16 11:10:31"
+  },
+  {
+    "id": "330",
+    "name": "America - Marigot",
+    "gmt_offset": "-14400",
+    "gmt_offset_name": "UTC-04:00",
+    "abbreviation": "AST",
+    "tz_name": "Atlantic Standard Time",
+    "created_at": "2022-05-16 11:10:34",
+    "updated_at": "2022-05-16 11:10:34"
+  },
+  {
+    "id": "331",
+    "name": "Pacific - Apia",
+    "gmt_offset": "50400",
+    "gmt_offset_name": "UTC+14:00",
+    "abbreviation": "WST",
+    "tz_name": "West Samoa Time",
+    "created_at": "2022-05-16 11:10:36",
+    "updated_at": "2022-05-16 11:10:36"
+  },
+  {
+    "id": "332",
+    "name": "Europe - San_Marino",
+    "gmt_offset": "3600",
+    "gmt_offset_name": "UTC+01:00",
+    "abbreviation": "CET",
+    "tz_name": "Central European Time",
+    "created_at": "2022-05-16 11:10:38",
+    "updated_at": "2022-05-16 11:10:38"
+  },
+  {
+    "id": "333",
+    "name": "Africa - Sao_Tome",
+    "gmt_offset": "0",
+    "gmt_offset_name": "UTC±00",
+    "abbreviation": "GMT",
+    "tz_name": "Greenwich Mean Time",
+    "created_at": "2022-05-16 11:10:41",
+    "updated_at": "2022-05-16 11:10:41"
+  },
+  {
+    "id": "334",
+    "name": "Asia - Riyadh",
+    "gmt_offset": "10800",
+    "gmt_offset_name": "UTC+03:00",
+    "abbreviation": "AST",
+    "tz_name": "Arabia Standard Time",
+    "created_at": "2022-05-16 11:10:43",
+    "updated_at": "2022-05-16 11:10:43"
+  },
+  {
+    "id": "335",
+    "name": "Africa - Dakar",
+    "gmt_offset": "0",
+    "gmt_offset_name": "UTC±00",
+    "abbreviation": "GMT",
+    "tz_name": "Greenwich Mean Time",
+    "created_at": "2022-05-16 11:10:45",
+    "updated_at": "2022-05-16 11:10:45"
+  },
+  {
+    "id": "336",
+    "name": "Indian - Mahe",
+    "gmt_offset": "14400",
+    "gmt_offset_name": "UTC+04:00",
+    "abbreviation": "SCT",
+    "tz_name": "Seychelles Time",
+    "created_at": "2022-05-16 11:10:50",
+    "updated_at": "2022-05-16 11:10:50"
+  },
+  {
+    "id": "337",
+    "name": "Africa - Freetown",
+    "gmt_offset": "0",
+    "gmt_offset_name": "UTC±00",
+    "abbreviation": "GMT",
+    "tz_name": "Greenwich Mean Time",
+    "created_at": "2022-05-16 11:10:52",
+    "updated_at": "2022-05-16 11:10:52"
+  },
+  {
+    "id": "338",
+    "name": "Asia - Singapore",
+    "gmt_offset": "28800",
+    "gmt_offset_name": "UTC+08:00",
+    "abbreviation": "SGT",
+    "tz_name": "Singapore Time",
+    "created_at": "2022-05-16 11:10:55",
+    "updated_at": "2022-05-16 11:10:55"
+  },
+  {
+    "id": "339",
+    "name": "Europe - Bratislava",
+    "gmt_offset": "3600",
+    "gmt_offset_name": "UTC+01:00",
+    "abbreviation": "CET",
+    "tz_name": "Central European Time",
+    "created_at": "2022-05-16 11:10:59",
+    "updated_at": "2022-05-16 11:10:59"
+  },
+  {
+    "id": "340",
+    "name": "Europe - Ljubljana",
+    "gmt_offset": "3600",
+    "gmt_offset_name": "UTC+01:00",
+    "abbreviation": "CET",
+    "tz_name": "Central European Time",
+    "created_at": "2022-05-16 11:11:01",
+    "updated_at": "2022-05-16 11:11:01"
+  },
+  {
+    "id": "341",
+    "name": "Pacific - Guadalcanal",
+    "gmt_offset": "39600",
+    "gmt_offset_name": "UTC+11:00",
+    "abbreviation": "SBT",
+    "tz_name": "Solomon Islands Time",
+    "created_at": "2022-05-16 11:11:04",
+    "updated_at": "2022-05-16 11:11:04"
+  },
+  {
+    "id": "342",
+    "name": "Africa - Mogadishu",
+    "gmt_offset": "10800",
+    "gmt_offset_name": "UTC+03:00",
+    "abbreviation": "EAT",
+    "tz_name": "East Africa Time",
+    "created_at": "2022-05-16 11:11:06",
+    "updated_at": "2022-05-16 11:11:06"
+  },
+  {
+    "id": "343",
+    "name": "Africa - Johannesburg",
+    "gmt_offset": "7200",
+    "gmt_offset_name": "UTC+02:00",
+    "abbreviation": "SAST",
+    "tz_name": "South African Standard Time",
+    "created_at": "2022-05-16 11:11:08",
+    "updated_at": "2022-05-16 11:11:08"
+  },
+  {
+    "id": "344",
+    "name": "Atlantic - South_Georgia",
+    "gmt_offset": "-7200",
+    "gmt_offset_name": "UTC-02:00",
+    "abbreviation": "GST",
+    "tz_name": "South Georgia and the South Sandwich Islands Time",
+    "created_at": "2022-05-16 11:11:11",
+    "updated_at": "2022-05-16 11:11:11"
+  },
+  {
+    "id": "345",
+    "name": "Asia - Seoul",
+    "gmt_offset": "32400",
+    "gmt_offset_name": "UTC+09:00",
+    "abbreviation": "KST",
+    "tz_name": "Korea Standard Time",
+    "created_at": "2022-05-16 11:11:13",
+    "updated_at": "2022-05-16 11:11:13"
+  },
+  {
+    "id": "346",
+    "name": "Africa - Juba",
+    "gmt_offset": "10800",
+    "gmt_offset_name": "UTC+03:00",
+    "abbreviation": "EAT",
+    "tz_name": "East Africa Time",
+    "created_at": "2022-05-16 11:11:15",
+    "updated_at": "2022-05-16 11:11:15"
+  },
+  {
+    "id": "347",
+    "name": "Africa - Ceuta",
+    "gmt_offset": "3600",
+    "gmt_offset_name": "UTC+01:00",
+    "abbreviation": "CET",
+    "tz_name": "Central European Time",
+    "created_at": "2022-05-16 11:11:18",
+    "updated_at": "2022-05-16 11:11:18"
+  },
+  {
+    "id": "348",
+    "name": "Atlantic - Canary",
+    "gmt_offset": "0",
+    "gmt_offset_name": "UTC±00",
+    "abbreviation": "WET",
+    "tz_name": "Western European Time",
+    "created_at": "2022-05-16 11:11:18",
+    "updated_at": "2022-05-16 11:11:18"
+  },
+  {
+    "id": "349",
+    "name": "Europe - Madrid",
+    "gmt_offset": "3600",
+    "gmt_offset_name": "UTC+01:00",
+    "abbreviation": "CET",
+    "tz_name": "Central European Time",
+    "created_at": "2022-05-16 11:11:18",
+    "updated_at": "2022-05-16 11:11:18"
+  },
+  {
+    "id": "350",
+    "name": "Asia - Colombo",
+    "gmt_offset": "19800",
+    "gmt_offset_name": "UTC+05:30",
+    "abbreviation": "IST",
+    "tz_name": "Indian Standard Time",
+    "created_at": "2022-05-16 11:11:20",
+    "updated_at": "2022-05-16 11:11:20"
+  },
+  {
+    "id": "351",
+    "name": "Africa - Khartoum",
+    "gmt_offset": "7200",
+    "gmt_offset_name": "UTC+02:00",
+    "abbreviation": "EAT",
+    "tz_name": "Eastern African Time",
+    "created_at": "2022-05-16 11:11:23",
+    "updated_at": "2022-05-16 11:11:23"
+  },
+  {
+    "id": "352",
+    "name": "America - Paramaribo",
+    "gmt_offset": "-10800",
+    "gmt_offset_name": "UTC-03:00",
+    "abbreviation": "SRT",
+    "tz_name": "Suriname Time",
+    "created_at": "2022-05-16 11:11:25",
+    "updated_at": "2022-05-16 11:11:25"
+  },
+  {
+    "id": "353",
+    "name": "Arctic - Longyearbyen",
+    "gmt_offset": "3600",
+    "gmt_offset_name": "UTC+01:00",
+    "abbreviation": "CET",
+    "tz_name": "Central European Time",
+    "created_at": "2022-05-16 11:11:27",
+    "updated_at": "2022-05-16 11:11:27"
+  },
+  {
+    "id": "354",
+    "name": "Africa - Mbabane",
+    "gmt_offset": "7200",
+    "gmt_offset_name": "UTC+02:00",
+    "abbreviation": "SAST",
+    "tz_name": "South African Standard Time",
+    "created_at": "2022-05-16 11:11:30",
+    "updated_at": "2022-05-16 11:11:30"
+  },
+  {
+    "id": "355",
+    "name": "Europe - Stockholm",
+    "gmt_offset": "3600",
+    "gmt_offset_name": "UTC+01:00",
+    "abbreviation": "CET",
+    "tz_name": "Central European Time",
+    "created_at": "2022-05-16 11:11:32",
+    "updated_at": "2022-05-16 11:11:32"
+  },
+  {
+    "id": "356",
+    "name": "Europe - Zurich",
+    "gmt_offset": "3600",
+    "gmt_offset_name": "UTC+01:00",
+    "abbreviation": "CET",
+    "tz_name": "Central European Time",
+    "created_at": "2022-05-16 11:11:35",
+    "updated_at": "2022-05-16 11:11:35"
+  },
+  {
+    "id": "357",
+    "name": "Asia - Damascus",
+    "gmt_offset": "7200",
+    "gmt_offset_name": "UTC+02:00",
+    "abbreviation": "EET",
+    "tz_name": "Eastern European Time",
+    "created_at": "2022-05-16 11:11:37",
+    "updated_at": "2022-05-16 11:11:37"
+  },
+  {
+    "id": "358",
+    "name": "Asia - Taipei",
+    "gmt_offset": "28800",
+    "gmt_offset_name": "UTC+08:00",
+    "abbreviation": "CST",
+    "tz_name": "China Standard Time",
+    "created_at": "2022-05-16 11:11:40",
+    "updated_at": "2022-05-16 11:11:40"
+  },
+  {
+    "id": "359",
+    "name": "Asia - Dushanbe",
+    "gmt_offset": "18000",
+    "gmt_offset_name": "UTC+05:00",
+    "abbreviation": "TJT",
+    "tz_name": "Tajikistan Time",
+    "created_at": "2022-05-16 11:11:42",
+    "updated_at": "2022-05-16 11:11:42"
+  },
+  {
+    "id": "360",
+    "name": "Africa - Dar_es_Salaam",
+    "gmt_offset": "10800",
+    "gmt_offset_name": "UTC+03:00",
+    "abbreviation": "EAT",
+    "tz_name": "East Africa Time",
+    "created_at": "2022-05-16 11:11:45",
+    "updated_at": "2022-05-16 11:11:45"
+  },
+  {
+    "id": "361",
+    "name": "Asia - Bangkok",
+    "gmt_offset": "25200",
+    "gmt_offset_name": "UTC+07:00",
+    "abbreviation": "ICT",
+    "tz_name": "Indochina Time",
+    "created_at": "2022-05-16 11:11:47",
+    "updated_at": "2022-05-16 11:11:47"
+  },
+  {
+    "id": "362",
+    "name": "America - Nassau",
+    "gmt_offset": "-18000",
+    "gmt_offset_name": "UTC-05:00",
+    "abbreviation": "EST",
+    "tz_name": "Eastern Standard Time (North America)",
+    "created_at": "2022-05-16 11:11:50",
+    "updated_at": "2022-05-16 11:11:50"
+  },
+  {
+    "id": "363",
+    "name": "Africa - Lome",
+    "gmt_offset": "0",
+    "gmt_offset_name": "UTC±00",
+    "abbreviation": "GMT",
+    "tz_name": "Greenwich Mean Time",
+    "created_at": "2022-05-16 11:11:53",
+    "updated_at": "2022-05-16 11:11:53"
+  },
+  {
+    "id": "364",
+    "name": "Pacific - Fakaofo",
+    "gmt_offset": "46800",
+    "gmt_offset_name": "UTC+13:00",
+    "abbreviation": "TKT",
+    "tz_name": "Tokelau Time",
+    "created_at": "2022-05-16 11:11:55",
+    "updated_at": "2022-05-16 11:11:55"
+  },
+  {
+    "id": "365",
+    "name": "Pacific - Tongatapu",
+    "gmt_offset": "46800",
+    "gmt_offset_name": "UTC+13:00",
+    "abbreviation": "TOT",
+    "tz_name": "Tonga Time",
+    "created_at": "2022-05-16 11:11:57",
+    "updated_at": "2022-05-16 11:11:57"
+  },
+  {
+    "id": "366",
+    "name": "America - Port_of_Spain",
+    "gmt_offset": "-14400",
+    "gmt_offset_name": "UTC-04:00",
+    "abbreviation": "AST",
+    "tz_name": "Atlantic Standard Time",
+    "created_at": "2022-05-16 11:12:00",
+    "updated_at": "2022-05-16 11:12:00"
+  },
+  {
+    "id": "367",
+    "name": "Africa - Tunis",
+    "gmt_offset": "3600",
+    "gmt_offset_name": "UTC+01:00",
+    "abbreviation": "CET",
+    "tz_name": "Central European Time",
+    "created_at": "2022-05-16 11:12:03",
+    "updated_at": "2022-05-16 11:12:03"
+  },
+  {
+    "id": "368",
+    "name": "Europe - Istanbul",
+    "gmt_offset": "10800",
+    "gmt_offset_name": "UTC+03:00",
+    "abbreviation": "EET",
+    "tz_name": "Eastern European Time",
+    "created_at": "2022-05-16 11:12:05",
+    "updated_at": "2022-05-16 11:12:05"
+  },
+  {
+    "id": "369",
+    "name": "Asia - Ashgabat",
+    "gmt_offset": "18000",
+    "gmt_offset_name": "UTC+05:00",
+    "abbreviation": "TMT",
+    "tz_name": "Turkmenistan Time",
+    "created_at": "2022-05-16 11:12:08",
+    "updated_at": "2022-05-16 11:12:08"
+  },
+  {
+    "id": "370",
+    "name": "America - Grand_Turk",
+    "gmt_offset": "-18000",
+    "gmt_offset_name": "UTC-05:00",
+    "abbreviation": "EST",
+    "tz_name": "Eastern Standard Time (North America",
+    "created_at": "2022-05-16 11:12:10",
+    "updated_at": "2022-05-16 11:12:10"
+  },
+  {
+    "id": "371",
+    "name": "Pacific - Funafuti",
+    "gmt_offset": "43200",
+    "gmt_offset_name": "UTC+12:00",
+    "abbreviation": "TVT",
+    "tz_name": "Tuvalu Time",
+    "created_at": "2022-05-16 11:12:13",
+    "updated_at": "2022-05-16 11:12:13"
+  },
+  {
+    "id": "372",
+    "name": "Africa - Kampala",
+    "gmt_offset": "10800",
+    "gmt_offset_name": "UTC+03:00",
+    "abbreviation": "EAT",
+    "tz_name": "East Africa Time",
+    "created_at": "2022-05-16 11:12:15",
+    "updated_at": "2022-05-16 11:12:15"
+  },
+  {
+    "id": "373",
+    "name": "Europe - Kiev",
+    "gmt_offset": "7200",
+    "gmt_offset_name": "UTC+02:00",
+    "abbreviation": "EET",
+    "tz_name": "Eastern European Time",
+    "created_at": "2022-05-16 11:12:18",
+    "updated_at": "2022-05-16 11:12:18"
+  },
+  {
+    "id": "374",
+    "name": "Europe - Simferopol",
+    "gmt_offset": "10800",
+    "gmt_offset_name": "UTC+03:00",
+    "abbreviation": "MSK",
+    "tz_name": "Moscow Time",
+    "created_at": "2022-05-16 11:12:18",
+    "updated_at": "2022-05-16 11:12:18"
+  },
+  {
+    "id": "375",
+    "name": "Europe - Uzhgorod",
+    "gmt_offset": "7200",
+    "gmt_offset_name": "UTC+02:00",
+    "abbreviation": "EET",
+    "tz_name": "Eastern European Time",
+    "created_at": "2022-05-16 11:12:18",
+    "updated_at": "2022-05-16 11:12:18"
+  },
+  {
+    "id": "376",
+    "name": "Europe - Zaporozhye",
+    "gmt_offset": "7200",
+    "gmt_offset_name": "UTC+02:00",
+    "abbreviation": "EET",
+    "tz_name": "Eastern European Time",
+    "created_at": "2022-05-16 11:12:18",
+    "updated_at": "2022-05-16 11:12:18"
+  },
+  {
+    "id": "377",
+    "name": "Asia - Dubai",
+    "gmt_offset": "14400",
+    "gmt_offset_name": "UTC+04:00",
+    "abbreviation": "GST",
+    "tz_name": "Gulf Standard Time",
+    "created_at": "2022-05-16 11:12:21",
+    "updated_at": "2022-05-16 11:12:21"
+  },
+  {
+    "id": "378",
+    "name": "Europe - London",
+    "gmt_offset": "0",
+    "gmt_offset_name": "UTC±00",
+    "abbreviation": "GMT",
+    "tz_name": "Greenwich Mean Time",
+    "created_at": "2022-05-16 11:12:23",
+    "updated_at": "2022-05-16 11:12:23"
+  },
+  {
+    "id": "379",
+    "name": "America - Adak",
+    "gmt_offset": "-36000",
+    "gmt_offset_name": "UTC-10:00",
+    "abbreviation": "HST",
+    "tz_name": "Hawaii–Aleutian Standard Time",
+    "created_at": "2022-05-16 11:12:26",
+    "updated_at": "2022-05-16 11:12:26"
+  },
+  {
+    "id": "380",
+    "name": "America - Anchorage",
+    "gmt_offset": "-32400",
+    "gmt_offset_name": "UTC-09:00",
+    "abbreviation": "AKST",
+    "tz_name": "Alaska Standard Time",
+    "created_at": "2022-05-16 11:12:26",
+    "updated_at": "2022-05-16 11:12:26"
+  },
+  {
+    "id": "381",
+    "name": "America - Boise",
+    "gmt_offset": "-25200",
+    "gmt_offset_name": "UTC-07:00",
+    "abbreviation": "MST",
+    "tz_name": "Mountain Standard Time (North America",
+    "created_at": "2022-05-16 11:12:26",
+    "updated_at": "2022-05-16 11:12:26"
+  },
+  {
+    "id": "382",
+    "name": "America - Chicago",
+    "gmt_offset": "-21600",
+    "gmt_offset_name": "UTC-06:00",
+    "abbreviation": "CST",
+    "tz_name": "Central Standard Time (North America",
+    "created_at": "2022-05-16 11:12:26",
+    "updated_at": "2022-05-16 11:12:26"
+  },
+  {
+    "id": "383",
+    "name": "America - Denver",
+    "gmt_offset": "-25200",
+    "gmt_offset_name": "UTC-07:00",
+    "abbreviation": "MST",
+    "tz_name": "Mountain Standard Time (North America",
+    "created_at": "2022-05-16 11:12:26",
+    "updated_at": "2022-05-16 11:12:26"
+  },
+  {
+    "id": "384",
+    "name": "America - Detroit",
+    "gmt_offset": "-18000",
+    "gmt_offset_name": "UTC-05:00",
+    "abbreviation": "EST",
+    "tz_name": "Eastern Standard Time (North America",
+    "created_at": "2022-05-16 11:12:26",
+    "updated_at": "2022-05-16 11:12:26"
+  },
+  {
+    "id": "385",
+    "name": "America - Indiana - Indianapolis",
+    "gmt_offset": "-18000",
+    "gmt_offset_name": "UTC-05:00",
+    "abbreviation": "EST",
+    "tz_name": "Eastern Standard Time (North America",
+    "created_at": "2022-05-16 11:12:26",
+    "updated_at": "2022-05-16 11:12:26"
+  },
+  {
+    "id": "386",
+    "name": "America - Indiana - Knox",
+    "gmt_offset": "-21600",
+    "gmt_offset_name": "UTC-06:00",
+    "abbreviation": "CST",
+    "tz_name": "Central Standard Time (North America",
+    "created_at": "2022-05-16 11:12:26",
+    "updated_at": "2022-05-16 11:12:26"
+  },
+  {
+    "id": "387",
+    "name": "America - Indiana - Marengo",
+    "gmt_offset": "-18000",
+    "gmt_offset_name": "UTC-05:00",
+    "abbreviation": "EST",
+    "tz_name": "Eastern Standard Time (North America",
+    "created_at": "2022-05-16 11:12:26",
+    "updated_at": "2022-05-16 11:12:26"
+  },
+  {
+    "id": "388",
+    "name": "America - Indiana - Petersburg",
+    "gmt_offset": "-18000",
+    "gmt_offset_name": "UTC-05:00",
+    "abbreviation": "EST",
+    "tz_name": "Eastern Standard Time (North America",
+    "created_at": "2022-05-16 11:12:26",
+    "updated_at": "2022-05-16 11:12:26"
+  },
+  {
+    "id": "389",
+    "name": "America - Indiana - Tell_City",
+    "gmt_offset": "-21600",
+    "gmt_offset_name": "UTC-06:00",
+    "abbreviation": "CST",
+    "tz_name": "Central Standard Time (North America",
+    "created_at": "2022-05-16 11:12:26",
+    "updated_at": "2022-05-16 11:12:26"
+  },
+  {
+    "id": "390",
+    "name": "America - Indiana - Vevay",
+    "gmt_offset": "-18000",
+    "gmt_offset_name": "UTC-05:00",
+    "abbreviation": "EST",
+    "tz_name": "Eastern Standard Time (North America",
+    "created_at": "2022-05-16 11:12:26",
+    "updated_at": "2022-05-16 11:12:26"
+  },
+  {
+    "id": "391",
+    "name": "America - Indiana - Vincennes",
+    "gmt_offset": "-18000",
+    "gmt_offset_name": "UTC-05:00",
+    "abbreviation": "EST",
+    "tz_name": "Eastern Standard Time (North America",
+    "created_at": "2022-05-16 11:12:26",
+    "updated_at": "2022-05-16 11:12:26"
+  },
+  {
+    "id": "392",
+    "name": "America - Indiana - Winamac",
+    "gmt_offset": "-18000",
+    "gmt_offset_name": "UTC-05:00",
+    "abbreviation": "EST",
+    "tz_name": "Eastern Standard Time (North America",
+    "created_at": "2022-05-16 11:12:26",
+    "updated_at": "2022-05-16 11:12:26"
+  },
+  {
+    "id": "393",
+    "name": "America - Juneau",
+    "gmt_offset": "-32400",
+    "gmt_offset_name": "UTC-09:00",
+    "abbreviation": "AKST",
+    "tz_name": "Alaska Standard Time",
+    "created_at": "2022-05-16 11:12:26",
+    "updated_at": "2022-05-16 11:12:26"
+  },
+  {
+    "id": "394",
+    "name": "America - Kentucky - Louisville",
+    "gmt_offset": "-18000",
+    "gmt_offset_name": "UTC-05:00",
+    "abbreviation": "EST",
+    "tz_name": "Eastern Standard Time (North America",
+    "created_at": "2022-05-16 11:12:26",
+    "updated_at": "2022-05-16 11:12:26"
+  },
+  {
+    "id": "395",
+    "name": "America - Kentucky - Monticello",
+    "gmt_offset": "-18000",
+    "gmt_offset_name": "UTC-05:00",
+    "abbreviation": "EST",
+    "tz_name": "Eastern Standard Time (North America",
+    "created_at": "2022-05-16 11:12:26",
+    "updated_at": "2022-05-16 11:12:26"
+  },
+  {
+    "id": "396",
+    "name": "America - Los_Angeles",
+    "gmt_offset": "-28800",
+    "gmt_offset_name": "UTC-08:00",
+    "abbreviation": "PST",
+    "tz_name": "Pacific Standard Time (North America",
+    "created_at": "2022-05-16 11:12:26",
+    "updated_at": "2022-05-16 11:12:26"
+  },
+  {
+    "id": "397",
+    "name": "America - Menominee",
+    "gmt_offset": "-21600",
+    "gmt_offset_name": "UTC-06:00",
+    "abbreviation": "CST",
+    "tz_name": "Central Standard Time (North America",
+    "created_at": "2022-05-16 11:12:26",
+    "updated_at": "2022-05-16 11:12:26"
+  },
+  {
+    "id": "398",
+    "name": "America - Metlakatla",
+    "gmt_offset": "-32400",
+    "gmt_offset_name": "UTC-09:00",
+    "abbreviation": "AKST",
+    "tz_name": "Alaska Standard Time",
+    "created_at": "2022-05-16 11:12:26",
+    "updated_at": "2022-05-16 11:12:26"
+  },
+  {
+    "id": "399",
+    "name": "America - New_York",
+    "gmt_offset": "-18000",
+    "gmt_offset_name": "UTC-05:00",
+    "abbreviation": "EST",
+    "tz_name": "Eastern Standard Time (North America",
+    "created_at": "2022-05-16 11:12:26",
+    "updated_at": "2022-05-16 11:12:26"
+  },
+  {
+    "id": "400",
+    "name": "America - Nome",
+    "gmt_offset": "-32400",
+    "gmt_offset_name": "UTC-09:00",
+    "abbreviation": "AKST",
+    "tz_name": "Alaska Standard Time",
+    "created_at": "2022-05-16 11:12:26",
+    "updated_at": "2022-05-16 11:12:26"
+  },
+  {
+    "id": "401",
+    "name": "America - North_Dakota - Beulah",
+    "gmt_offset": "-21600",
+    "gmt_offset_name": "UTC-06:00",
+    "abbreviation": "CST",
+    "tz_name": "Central Standard Time (North America",
+    "created_at": "2022-05-16 11:12:26",
+    "updated_at": "2022-05-16 11:12:26"
+  },
+  {
+    "id": "402",
+    "name": "America - North_Dakota - Center",
+    "gmt_offset": "-21600",
+    "gmt_offset_name": "UTC-06:00",
+    "abbreviation": "CST",
+    "tz_name": "Central Standard Time (North America",
+    "created_at": "2022-05-16 11:12:26",
+    "updated_at": "2022-05-16 11:12:26"
+  },
+  {
+    "id": "403",
+    "name": "America - North_Dakota - New_Salem",
+    "gmt_offset": "-21600",
+    "gmt_offset_name": "UTC-06:00",
+    "abbreviation": "CST",
+    "tz_name": "Central Standard Time (North America",
+    "created_at": "2022-05-16 11:12:26",
+    "updated_at": "2022-05-16 11:12:26"
+  },
+  {
+    "id": "404",
+    "name": "America - Phoenix",
+    "gmt_offset": "-25200",
+    "gmt_offset_name": "UTC-07:00",
+    "abbreviation": "MST",
+    "tz_name": "Mountain Standard Time (North America",
+    "created_at": "2022-05-16 11:12:26",
+    "updated_at": "2022-05-16 11:12:26"
+  },
+  {
+    "id": "405",
+    "name": "America - Sitka",
+    "gmt_offset": "-32400",
+    "gmt_offset_name": "UTC-09:00",
+    "abbreviation": "AKST",
+    "tz_name": "Alaska Standard Time",
+    "created_at": "2022-05-16 11:12:26",
+    "updated_at": "2022-05-16 11:12:26"
+  },
+  {
+    "id": "406",
+    "name": "America - Yakutat",
+    "gmt_offset": "-32400",
+    "gmt_offset_name": "UTC-09:00",
+    "abbreviation": "AKST",
+    "tz_name": "Alaska Standard Time",
+    "created_at": "2022-05-16 11:12:26",
+    "updated_at": "2022-05-16 11:12:26"
+  },
+  {
+    "id": "407",
+    "name": "Pacific - Honolulu",
+    "gmt_offset": "-36000",
+    "gmt_offset_name": "UTC-10:00",
+    "abbreviation": "HST",
+    "tz_name": "Hawaii–Aleutian Standard Time",
+    "created_at": "2022-05-16 11:12:26",
+    "updated_at": "2022-05-16 11:12:26"
+  },
+  {
+    "id": "408",
+    "name": "Pacific - Midway",
+    "gmt_offset": "-39600",
+    "gmt_offset_name": "UTC-11:00",
+    "abbreviation": "SST",
+    "tz_name": "Samoa Standard Time",
+    "created_at": "2022-05-16 11:12:29",
+    "updated_at": "2022-05-16 11:12:29"
+  },
+  {
+    "id": "409",
+    "name": "Pacific - Wake",
+    "gmt_offset": "43200",
+    "gmt_offset_name": "UTC+12:00",
+    "abbreviation": "WAKT",
+    "tz_name": "Wake Island Time",
+    "created_at": "2022-05-16 11:12:29",
+    "updated_at": "2022-05-16 11:12:29"
+  },
+  {
+    "id": "410",
+    "name": "America - Montevideo",
+    "gmt_offset": "-10800",
+    "gmt_offset_name": "UTC-03:00",
+    "abbreviation": "UYT",
+    "tz_name": "Uruguay Standard Time",
+    "created_at": "2022-05-16 11:12:33",
+    "updated_at": "2022-05-16 11:12:33"
+  },
+  {
+    "id": "411",
+    "name": "Asia - Samarkand",
+    "gmt_offset": "18000",
+    "gmt_offset_name": "UTC+05:00",
+    "abbreviation": "UZT",
+    "tz_name": "Uzbekistan Time",
+    "created_at": "2022-05-16 11:12:35",
+    "updated_at": "2022-05-16 11:12:35"
+  },
+  {
+    "id": "412",
+    "name": "Asia - Tashkent",
+    "gmt_offset": "18000",
+    "gmt_offset_name": "UTC+05:00",
+    "abbreviation": "UZT",
+    "tz_name": "Uzbekistan Time",
+    "created_at": "2022-05-16 11:12:35",
+    "updated_at": "2022-05-16 11:12:35"
+  },
+  {
+    "id": "413",
+    "name": "Pacific - Efate",
+    "gmt_offset": "39600",
+    "gmt_offset_name": "UTC+11:00",
+    "abbreviation": "VUT",
+    "tz_name": "Vanuatu Time",
+    "created_at": "2022-05-16 11:12:38",
+    "updated_at": "2022-05-16 11:12:38"
+  },
+  {
+    "id": "414",
+    "name": "Europe - Vatican",
+    "gmt_offset": "3600",
+    "gmt_offset_name": "UTC+01:00",
+    "abbreviation": "CET",
+    "tz_name": "Central European Time",
+    "created_at": "2022-05-16 11:12:41",
+    "updated_at": "2022-05-16 11:12:41"
+  },
+  {
+    "id": "415",
+    "name": "America - Caracas",
+    "gmt_offset": "-14400",
+    "gmt_offset_name": "UTC-04:00",
+    "abbreviation": "VET",
+    "tz_name": "Venezuelan Standard Time",
+    "created_at": "2022-05-16 11:12:44",
+    "updated_at": "2022-05-16 11:12:44"
+  },
+  {
+    "id": "416",
+    "name": "Asia - Ho_Chi_Minh",
+    "gmt_offset": "25200",
+    "gmt_offset_name": "UTC+07:00",
+    "abbreviation": "ICT",
+    "tz_name": "Indochina Time",
+    "created_at": "2022-05-16 11:12:47",
+    "updated_at": "2022-05-16 11:12:47"
+  },
+  {
+    "id": "417",
+    "name": "America - Tortola",
+    "gmt_offset": "-14400",
+    "gmt_offset_name": "UTC-04:00",
+    "abbreviation": "AST",
+    "tz_name": "Atlantic Standard Time",
+    "created_at": "2022-05-16 11:12:51",
+    "updated_at": "2022-05-16 11:12:51"
+  },
+  {
+    "id": "418",
+    "name": "America - St_Thomas",
+    "gmt_offset": "-14400",
+    "gmt_offset_name": "UTC-04:00",
+    "abbreviation": "AST",
+    "tz_name": "Atlantic Standard Time",
+    "created_at": "2022-05-16 11:12:54",
+    "updated_at": "2022-05-16 11:12:54"
+  },
+  {
+    "id": "419",
+    "name": "Pacific - Wallis",
+    "gmt_offset": "43200",
+    "gmt_offset_name": "UTC+12:00",
+    "abbreviation": "WFT",
+    "tz_name": "Wallis & Futuna Time",
+    "created_at": "2022-05-16 11:12:57",
+    "updated_at": "2022-05-16 11:12:57"
+  },
+  {
+    "id": "420",
+    "name": "Africa - El_Aaiun",
+    "gmt_offset": "3600",
+    "gmt_offset_name": "UTC+01:00",
+    "abbreviation": "WEST",
+    "tz_name": "Western European Summer Time",
+    "created_at": "2022-05-16 11:13:00",
+    "updated_at": "2022-05-16 11:13:00"
+  },
+  {
+    "id": "421",
+    "name": "Asia - Aden",
+    "gmt_offset": "10800",
+    "gmt_offset_name": "UTC+03:00",
+    "abbreviation": "AST",
+    "tz_name": "Arabia Standard Time",
+    "created_at": "2022-05-16 11:13:04",
+    "updated_at": "2022-05-16 11:13:04"
+  },
+  {
+    "id": "422",
+    "name": "Africa - Lusaka",
+    "gmt_offset": "7200",
+    "gmt_offset_name": "UTC+02:00",
+    "abbreviation": "CAT",
+    "tz_name": "Central Africa Time",
+    "created_at": "2022-05-16 11:13:06",
+    "updated_at": "2022-05-16 11:13:06"
+  },
+  {
+    "id": "423",
+    "name": "Africa - Harare",
+    "gmt_offset": "7200",
+    "gmt_offset_name": "UTC+02:00",
+    "abbreviation": "CAT",
+    "tz_name": "Central Africa Time",
+    "created_at": "2022-05-16 11:13:09",
+    "updated_at": "2022-05-16 11:13:09"
+  }
+]

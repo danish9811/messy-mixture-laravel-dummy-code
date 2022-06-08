@@ -1,0 +1,57 @@
+>- remove extra checks on commands like unnecessary if() statements
+>- handle else case in commands
+>- optimize code | reduce number of lines
+>- run package by composer command (done)
+>- check and make the markdown file more clean and effective
+>- read composer.json and its namespace line and package name line
+>- exchange rate source can also be PKR instead of USD, also handle this
+>- stream reading and given package, check how it works
+>- data is read first, now it is as it is in database table, export them as jsons and write
+    efficient json decode code fewer lines in seeders
+>- change csvFiles filename to csvs
+>- if the seeders are not run, run them by commands, if migrations are not run, run migrations first
+>- composer require otifsolutions/laravel-currency-layer dev-main (main branch)
+>- optimize tables by reducing redundant colomns
+>- if the response from the api is different, try handling that response, not all the response codes
+>- remove the table duplications
+>- always use foreach loop for arrays and collection of data
+>- reduce the keys names set for the apiCurencyLayer and settingSaveDays
+>- use foreignId instead of writing whole relation codes in migrations, write foriegnId('id') like this
+    that connects with the parent table
+>- check where the schedules occurs in the code, where is scheduling of commands and the code
+>- iso3 and iso2 of the countries currencyNames, check the names carefully and then name them
+>- fetch currencyRates $timesCounter is not necessary, write only once, and message
+    like "data synced successfully"
+
+other minor changes in the code has to be made
+
+handling else case
+kernel register commands
+making markdown more clear and obvious
+checks on migrations and seeders, if they run or not, what we are going to run,
+and minor fixes
+
+learn about laravel collections, maps, array maps, data structures, callback functions are used, multiple wheres
+
+
+
+
+
+
+
+
+
+
+
+
+---------------modifications by sir maqsood butt-------------------------------------
+Package looks much Better now.
+
+Currency table should have source_currency_id (You are saving USD code as source but also
+save USD currency id) (USD should not be static it should be the source currency that you
+are getting from response) so that we can do conversions much easily
+
+Also on Currency add latest rate attribute which shows the latest rate of the currency.
+ We have the history but it would be useful to have a latest_rate attribute on table
+ so we do not have to get latest rate from relation each time.
+ -------------------------------------------------------------------------------------

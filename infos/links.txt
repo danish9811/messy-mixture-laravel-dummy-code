@@ -1,0 +1,44 @@
+-> ARTISAN COMMAND | creating artisan command in laravel
+https://medium.com/cs-code/create-custom-artisan-command-in-laravel-17c4d96f4266
+
+-> QURAN MAJEED IN KURDI VOICE | download quran majeed in audio text al-kurdi
+https://surahquran.com/English/kordy/
+
+-> APACHE PROBLEM | check if apache php web server is already running or not, xampp running or docker image container running
+https://stackoverflow.com/questions/40480843/xampp-another-web-server-is-already-running
+
+-> ELOQUENT RELATIONSHIPS | all the eloquent relations explained by qirolab youtuber
+https://www.youtube.com/watch?v=m0IsbkfONL4&list=PL1TrjkMQ8UbVyIT0cDX-54gN5tunWZvaI&ab_channel=QiroLab
+
+-> PUBLISH ASSETS FROM PACKAGE TO PROJECT | how to publish assets to the laravel package, the right way
+https://freek.dev/424-publishing-package-assets-the-right-way
+
+-> NODEJS | nodejs mern stack 6packProgrammer full resume website with threeJS
+https://youtu.be/h1igcrpG-Ek
+
+-> REGISTERING SEEDERS | registering seeders in a laravel package, stackoverflow answer
+https://stackoverflow.com/questions/40095764/laravel-registering-seeds-in-a-package
+
+-> MYSQL STORAGE ENIGNE | changing storage engines, from isam to innodb and vice versa
+https://komelin.com/articles/convert-laravel-tables-myisam-innodb/
+
+-> REACT PORTFOLIO | React portfolio website tutorial, 3.14 Hours long
+https://www.youtube.com/watch?v=G-Cr00UYokU
+
+-> UPSERT | laravel upsert, updateOrCreate and eloquent shorter to insert data
+https://youtu.be/J8x268as2qo
+
+-> JSON | the web app that convert rough and oddly written json into proper format, and tells you what changes has made, and what repalced with
+https://jsonformatter.curiousconcept.com/#
+
+
+-> UDPATE OR CREATE | how updateOrCreate() method works
+https://laravel-news.com/firstornew-firstorcreate-firstor-updateorcreate
+
+-> UPSERT | upsert best explained
+https://www.georgebuckingham.com/laravel-database-upsert/
+
+-> ROUTES | create multiple route files like web.php
+https://devnote.in/how-to-create-multiple-files-for-your-routes-in-laravel/
+
+

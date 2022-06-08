@@ -1,0 +1,20 @@
+001 -> To check if a person is married or not write cnic and send to 8009 | you'll be notified
+002 -> Behave yourself not as young boy, but as professional experienced developer
+003 -> Remember how much balance is in your metro card
+004 -> Before asking questions, first check what you are asking
+004 -> Do not over-use your phone, like while coding, while reading something, while debugging
+005 -> Resume your tilawah and memorization of Quran where soorah Luqman, para 21
+006 -> Controller should not have lot of logic in it, it should be in jobs, services, models, action
+007 -> To run seeders residing a different namespace, you must have mentiond the fullnamespace
+        to the class by db:seed --class=\\Project\\Folder\\AddressSeeder
+008 -> Remember, forward slash "/" and entirely different from backslash "\", and consider
+        double backslash "\\" and ponder it
+009 -> For many to many relationships with another table, create a minimum one resemblance between them
+        suppose we are createing countries and timezones tables, we would add one colomn as countryName
+        in the timezones table to identify of which country this is timezone belongs to, and vice versa
+010 -> When double backslashes won't work, try with tripple backslashes inside artisan command call in
+        Artisan::call('Vendor\\\Project\\\Seeders\\\PhoneNumberSeeder')
+011 -> Always be careful with the paths you have given, all the paths suggested by phpstorm are not correct,
+        it will show and direct you to that file by clicking it, but actually you have to cross-check
+        the path everytime while doing this path related stuff
+012 -> Try to find out more proper, precised and performand way seed the database tables

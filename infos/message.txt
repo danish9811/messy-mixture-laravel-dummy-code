@@ -1,0 +1,19 @@
+
+            ---------------------------------------------------------
+              message by maqsood butt boss that mensions the errors
+            ---------------------------------------------------------
+
+The otifsolutions/currency-layer package of which you are a maintainer has
+failed to update due to invalid data contained in your composer.json.
+Please address this as soon as possible since the package stopped updating.
+
+It is recommended that you use (composer validate) to check for errors when you
+change your composer.json.
+
+Below is the update log which should highlight errors as
+"Skipped branch ...":
+
+[Composer\Repository\InvalidRepositoryException]: Some branches contained invalid data and were discarded, it is advised to review the log and fix any issues present in branches
+
+Skipped branch main, Invalid package information:
+autoload.psr-4 : invalid value (OTIFSolutions\CurrencyLayer\Database\Seeders), namespaces must end with a namespace separator, should be OTIFSolutions\CurrencyLayer\Database\Seeders\

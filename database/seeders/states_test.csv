@@ -1,0 +1,16 @@
+id,name,country_id,country_code,country_name,state_code,type,latitude,longitude
+3901,Badakhshan,1,AF,Afghanistan,BDS,,36.73477250,70.81199530
+3871,Badghis,1,AF,Afghanistan,BDG,,35.16713390,63.76953840
+3875,Baghlan,1,AF,Afghanistan,BGL,,36.17890260,68.74530640
+3884,Balkh,1,AF,Afghanistan,BAL,,36.75506030,66.89753720
+3872,Bamyan,1,AF,Afghanistan,BAM,,34.81000670,67.82121040
+3892,Daykundi,1,AF,Afghanistan,DAY,,33.66949500,66.04635340
+3899,Farah,1,AF,Afghanistan,FRA,,32.49532800,62.26266270
+3889,Faryab,1,AF,Afghanistan,FYB,,36.07956130,64.90595500
+3870,Ghazni,1,AF,Afghanistan,GHA,,33.54505870,68.41739720
+3888,Ghōr,1,AF,Afghanistan,GHO,,34.09957760,64.90595500
+3873,Helmand,1,AF,Afghanistan,HEL,,39.29893610,-76.61604720
+3887,Herat,1,AF,Afghanistan,HER,,34.35286500,62.20402870
+3886,Jowzjan,1,AF,Afghanistan,JOW,,36.89696920,65.66585680
+3902,Kabul,1,AF,Afghanistan,KAB,,34.55534940,69.20748600
+3890,Kandahar,1,AF,Afghanistan,KAN,,31.62887100,65.73717490
